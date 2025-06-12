@@ -1,0 +1,17 @@
+model_repository: /data/quandm8/ziptriton/triton/model_repository
+
+# run_config_search_disable: True
+# checkpoint_directory: ./checkpoints/
+# export_path: ./export_directory/
+
+# concurrency: [2, 4, 6]
+# batch_sizes: [4 ,8]
+
+profile_models:
+  transducer:
+    parameters:
+      concurrency: [1, 2]
+      batch_sizes: 1,2
+      
+
+

@@ -1,0 +1,27 @@
+name: "adapter"
+version_policy {
+  specific {
+    versions: 2
+  }
+}
+max_batch_size: 1
+input {
+  name: "encoder_out"
+  data_type: TYPE_FP32
+  dims: -1
+  dims: -1
+}
+output {
+  name: "adapter_out"
+  data_type: TYPE_FP32
+  dims: -1
+  dims: 512
+}
+instance_group {
+  count: 2
+  kind: KIND_GPU
+}
+default_model_filename: "adapter.onnx"
+dynamic_batching {
+}
+backend: "onnxruntime"

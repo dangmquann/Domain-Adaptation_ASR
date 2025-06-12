@@ -1,0 +1,86 @@
+name: "encoder"
+version_policy {
+  specific {
+    versions: 2
+  }
+}
+max_batch_size: 1
+input {
+  name: "x"
+  data_type: TYPE_FP32
+  dims: -1
+  dims: 80
+}
+output {
+  name: "encoder_out"
+  data_type: TYPE_FP32
+  dims: -1
+  dims: -1
+}
+instance_group {
+  count: 2
+  gpus: 0
+  gpus: 1
+  kind: KIND_GPU
+}
+default_model_filename: "encoder.onnx"
+sequence_batching {
+  max_sequence_idle_microseconds: 5000000
+  oldest {
+    max_candidate_sequences: 1024
+    max_queue_delay_microseconds: 5000
+  }
+  state {
+    input_name: "cached_att"
+    output_name: "new_cached_att"
+    data_type: TYPE_FP32
+    dims: 176128
+    initial_state {
+      data_type: TYPE_FP32
+      dims: 176128
+      zero_data: true
+      name: "initial state"
+    }
+  }
+  state {
+    input_name: "cached_cnn"
+    output_name: "new_cached_cnn"
+    data_type: TYPE_FP32
+    dims: 103168
+    initial_state {
+      data_type: TYPE_FP32
+      dims: 103168
+      zero_data: true
+      name: "initial state"
+    }
+  }
+  state {
+    input_name: "embed_states"
+    output_name: "new_embed_states"
+    data_type: TYPE_FP32
+    dims: 128
+    dims: 3
+    dims: 19
+    initial_state {
+      data_type: TYPE_FP32
+      dims: 128
+      dims: 3
+      dims: 19
+      zero_data: true
+      name: "initial state"
+    }
+  }
+  state {
+    input_name: "processed_lens"
+    output_name: "new_processed_lens"
+    data_type: TYPE_INT64
+    dims: 1
+    initial_state {
+      data_type: TYPE_INT64
+      dims: 1
+      zero_data: true
+      name: "initial state"
+    }
+  }
+}
+backend: "onnxruntime"

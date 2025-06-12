@@ -1,0 +1,22 @@
+model name is adapter 
+queue 0.24  s, infer 0.88  s, input 0.23  s, output 0.14  s 
+Batch_size 1 , 5019  times, infer 879.45    ms, avg 0.18 ms, 0.18 ms input 234.10    ms, avg 0.05 ms, output 138.34    ms, avg 0.03 ms 
+model name is decoder 
+queue 0.67  s, infer 3.21  s, input 0.98  s, output 1.00  s 
+Batch_size 1 , 23799 times, infer 3207.33   ms, avg 0.13 ms, 0.13 ms input 981.77    ms, avg 0.04 ms, output 1001.69   ms, avg 0.04 ms 
+model name is encoder 
+queue 146.82 s, infer 131.29 s, input 0.47  s, output 0.35  s 
+Batch_size 1 , 5019  times, infer 131291.51 ms, avg 26.16 ms, 26.16 ms input 473.63    ms, avg 0.09 ms, output 347.08    ms, avg 0.07 ms 
+model name is feature_extractor 
+queue 36.24 s, infer 7.61  s, input 0.11  s, output 0.26  s 
+Batch_size 1 , 5019  times, infer 7607.46   ms, avg 1.52 ms, 1.52 ms input 106.93    ms, avg 0.02 ms, output 255.43    ms, avg 0.05 ms 
+model name is joiner 
+queue 1.11  s, infer 2.89  s, input 2.20  s, output 1.56  s 
+Batch_size 1 , 39568 times, infer 2806.50   ms, avg 0.07 ms, 0.07 ms input 2147.38   ms, avg 0.05 ms, output 1495.22   ms, avg 0.04 ms 
+Batch_size 2 , 292   times, infer 42.10     ms, avg 0.14 ms, 0.07 ms input 26.16     ms, avg 0.09 ms, output 34.85     ms, avg 0.12 ms 
+model name is scorer 
+queue 365.70 s, infer 92.81 s, input 0.24  s, output 0.61  s 
+Batch_size 1 , 5019  times, infer 92810.40  ms, avg 18.49 ms, 18.49 ms input 236.81    ms, avg 0.05 ms, output 610.12    ms, avg 0.12 ms 
+model name is transducervnpost 
+queue 0.01  s, infer 232.59 s, input 1.05  s, output 1.35  s 
+Batch_size 1 , 5019  times, infer 232588.83 ms, avg 46.34 ms, 46.34 ms input 1051.46   ms, avg 0.21 ms, output 1350.98   ms, avg 0.27 ms 

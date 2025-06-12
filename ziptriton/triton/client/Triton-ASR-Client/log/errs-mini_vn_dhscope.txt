@@ -1,0 +1,49 @@
+%WER = 1900.00
+Errors: 18 insertions, 0 deletions, 1 substitutions, over 1 reference words (0 correct)
+Search below for sections starting with PER-UTT DETAILS:, SUBSTITUTIONS:, DELETIONS:, INSERTIONS:, PER-WORD STATS:
+
+PER-UTT DETAILS: corr or (ref->hyp)  
+0:	(foo->hà thu trần chung quang đại rơi vào nhóm nuôi nhiễm và may mắn đã đến với quang đại)
+
+SUBSTITUTIONS: count ref -> hyp
+1   foo -> hà
+
+DELETIONS: count ref
+
+INSERTIONS: count hyp
+2   đại
+2   quang
+1   đến
+1   đã
+1   với
+1   vào
+1   và
+1   trần
+1   thu
+1   rơi
+1   nuôi
+1   nhóm
+1   nhiễm
+1   mắn
+1   may
+1   chung
+
+PER-WORD STATS: word  corr tot_errs count_in_ref count_in_hyp
+đại   0 2 0 2
+quang   0 2 0 2
+đến   0 1 0 1
+đã   0 1 0 1
+với   0 1 0 1
+vào   0 1 0 1
+và   0 1 0 1
+trần   0 1 0 1
+thu   0 1 0 1
+rơi   0 1 0 1
+nuôi   0 1 0 1
+nhóm   0 1 0 1
+nhiễm   0 1 0 1
+mắn   0 1 0 1
+may   0 1 0 1
+hà   0 1 0 1
+foo   0 1 1 0
+chung   0 1 0 1

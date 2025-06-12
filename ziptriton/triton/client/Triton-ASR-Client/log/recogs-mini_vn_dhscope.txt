@@ -1,0 +1,2 @@
+0:	ref=['foo']
+0:	hyp=['hà', 'thu', 'trần', 'chung', 'quang', 'đại', 'rơi', 'vào', 'nhóm', 'nuôi', 'nhiễm', 'và', 'may', 'mắn', 'đã', 'đến', 'với', 'quang', 'đại']

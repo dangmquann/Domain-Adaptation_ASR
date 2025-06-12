@@ -1,0 +1,83 @@
+name: "feature_extractor"
+max_batch_size: 1
+input {
+  name: "wav"
+  data_type: TYPE_FP32
+  dims: -1
+}
+input {
+  name: "wav_lens"
+  data_type: TYPE_INT32
+  dims: 1
+}
+output {
+  name: "x"
+  data_type: TYPE_FP32
+  dims: 45
+  dims: 80
+}
+instance_group {
+  count: 1
+  kind: KIND_GPU
+}
+sequence_batching {
+  max_sequence_idle_microseconds: 5000000
+  control_input {
+    name: "START"
+    control {
+      fp32_false_true: 0.0
+      fp32_false_true: 1.0
+    }
+  }
+  control_input {
+    name: "READY"
+    control {
+      kind: CONTROL_SEQUENCE_READY
+      fp32_false_true: 0.0
+      fp32_false_true: 1.0
+    }
+  }
+  control_input {
+    name: "CORRID"
+    control {
+      kind: CONTROL_SEQUENCE_CORRID
+      data_type: TYPE_UINT64
+    }
+  }
+  control_input {
+    name: "END"
+    control {
+      kind: CONTROL_SEQUENCE_END
+      fp32_false_true: 0.0
+      fp32_false_true: 1.0
+    }
+  }
+  oldest {
+    max_candidate_sequences: 512
+  }
+}
+parameters {
+  key: "decode_chunk_size"
+  value {
+    string_value: "16"
+  }
+}
+parameters {
+  key: "frame_length_ms"
+  value {
+    string_value: "25"
+  }
+}
+parameters {
+  key: "frame_shift_ms"
+  value {
+    string_value: "10"
+  }
+}
+parameters {
+  key: "sample_rate"
+  value {
+    string_value: "16000"
+  }
+}
+backend: "python"

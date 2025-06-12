@@ -1,0 +1,2226 @@
+%WER = 25.35
+Errors: 101 insertions, 717 deletions, 781 substitutions, over 6307 reference words (4809 correct)
+Search below for sections starting with PER-UTT DETAILS:, SUBSTITUTIONS:, DELETIONS:, INSERTIONS:, PER-WORD STATS:
+
+PER-UTT DETAILS: corr or (ref->hyp)  
+1682990149.6027413-split_v1-483200-674250_11617-11617:	(rồi vầng->dạ)
+1682994647.6029060-split_v1-0-325450_10225-10225:	(khoảng nửa->gửi) tiếng nữa thôi
+1683077333.6050218-split_v1-486400-758090_2036-2036:	(vâng->vầng) thế thì bọn em
+1683078157.6051098_27035-27035:	(vầng->*) ok
+1683107664.6096164-split_v1-0-780810_652-652:	(có việc->*) gì (ạ->à) mình (mình ở bưu điện->ấn địa) mà mình có cái thẻ (vietcombank->việtco mank) ý mình có lấy cái thẻ (đấy->để) không để mai phát lại (*->vợ) cho mình nhờ
+1683169992.6122161_25549-25549:	không chín tám tư rồi ạ không (năm->lăm) chín một năm sáu
+1683171680.6128721_20061-20061:	a lô (a lô->*) em chào (*->chị) anh (em->*) bên bưu điện hà nội thẻ bảo hiểm y tế của nguyễn thế (trình của mình->chỉnh) đã đóng tiếp và được cập nhật lên chương trình rồi em báo để mình yên tâm (sử dụng->chị) nhá dạ
+1683173493.6134195_23023-23023:	(thì->dịch) gửi (gửi->*) số cho mình nhá em đọc luôn cho anh được không ạ tại vì em đang dùng (tổng->*) đài nên là không không nhắn tin được rồi thế thì (sao->xong) bên mình lại bưu tá (lại bây giờ lại phải->*) gọi cho bưu tá thì (mới->bên) giao hàng hay như nào không cái hàng này của anh là chắc là nó về mấy hôm nghỉ lễ nên là anh ấy chưa phát được
+1683182865.6143774-split_v1-0-499210_5192-5192:	chị có phải là chị hoa không
+1683187566.6157623_28901-28901:	(xin năm số điện thoại cuối số->mười lăm phường biên hòa bốn) khách ạ
+1683188288.6159663-split_v1-0-480010_17076-17076:	sáng mai chị nhận hàng được không
+1683190314.6167054_28317-28317:	(alo->a lô) ạ
+1683195012.6179071-split_v1-0-363210_11973-11973:	(nó->*) là cái gì đấy em nhở (kem cám gạo->các em khám lại)
+1683250416.6190016_23735-23735:	em nghe chị ơi
+1683251557.6191681-split_v1-502400-1687370_4916-4916:	(trong->*) đấy (ngoài giờ->ừ) ngoài giờ đó ra thì ở nhà hoặc là tùy theo đi ngoài ra ngoài đúng không chị
+1683275386.6244513_23029-23029:	cái thẻ (ao->*) của bạn tuấn anh em có cầm không (không->có) em trả lại văn phòng (rồi->*)
+1683275513.6245053_22025-22025:	chị ơi có cái đơn hàng của nguyễn đức (vầng làm sao ạ->*) khách (xin hủy->vầng dạ) đơn không không lấy
+1683276800.6250037_24533-24533:	(dạ->*) a lô a lô (ừ->*)
+1683277231.6251437-split_v1-579200-835210_13836-13836:	a lô (vang->vâng) em chào (chị vâng vâng->*)
+1683285267.6268833_27094-27094:	quần của (shop->shock) nào nhỉ
+1683335915.6275021-split_v1-480000-988810_1863-1863:	chiều nay chiều nay anh có ở nhà không ạ
+1683341017.6285516_22341-22341:	(không->có) phải ở (phú lương đâu->khu luôn) chị ơi (ở->*) ngõ hai trăm mười bốn (nguyễn xiển->biển)
+1683345276.6299236_18051-18051:	(chờ tôi một->trơn doi) phút để (để để->thôi) tôi tôi (tôi tôi tôi->bật) bật máy tôi (mới->minh) nhớ được số nhá (rồi->*) tôi gọi lại luôn cho nhá
+1683359678.6318635-split_v1-0-293450_14381-14381:	dạ vâng em (cám->cảm) ơn bưu điện (hà->*) nội xin chào
+1683361230.6323357-split_v1-0-467530_7283-7283:	a lô (a lô vâng->*) em chào chị em bưu điện hà nội của chị (sen->xem) ở thái hòa ba (vì ý->v r ghi) có phải là của nhà mình (đấy->đâu) đúng không ạ
+1683362140.6325929-split_v1-0-556810_1028-1028:	không ba sáu bảy
+1683362699.6328247-split_v1-595200-1388810_9036-9036:	đúng rồi (nó->đúng) nhận (*->nhận) được hàng mà em chuyển tiền rồi cái này chị chuyển khoản à em chuyển khoản (ạ chị xem->à sao) hộ em xem (chuyển khoản->hoàn) cho (ai->hai cái) tên (là->*) gì (với->ý)
+1683422972.6356470-split_v1-0-636810_13040-13040:	em (thay->thấy) đổi từ em thay đổi từ lúc em đặt hàng rồi mà
+1683518674.6430095_25517-25517:	(a lô->mẫu) a lô em chào anh em bên bưu điện hà nội thẻ bảo hiểm y tế của mình (với của->*) nguyễn thị khanh ý
+1683521040.6438051-split_v1-0-540810_1990-1990:	(vợ->*) anh làm đấy thì (vợ anh nhận->bảo gọi điện) cho anh
+1683521794.6439798-split_v1-0-528010_3806-3806:	a lô
+1683522087.6440294_27526-27526:	(alo alo->a lô) chị ơi làm phiền em bên bưu điện (ý->cho) mình có cái đơn hàng
+1683522712.6441384_24416-24416:	nhá (ừ->rồi) cảm ơn (em chào chị->*)
+1683530398.6450511_23293-23293:	ba năm một chín ạ (*->ok) đợi (em->*) một chút nhá để em gọi lại cho khách nhá (đơn này->ô kê ừ đơn) bao tiền đấy anh nhở chị nhở một trăm chín chín nghìn (ba->*) năm một chín (á sao em không->năm hai) thấy nhở (mình->bình) cho em xin lại cái mã (vận->*) đơn được không
+1683530718.6451430-split_v1-0-483210_12897-12897:	(ờ->*) chị bảo bạn ấy là chuyển sang bên này (chị trả thêm->giả)
+1683533281.6460074_18891-18891:	chị ơi em gọi từ bưu điện có một cái đơn hàng này khách hàng từ chối nhận
+1683533776.6462180-split_v1-508800-954570_14561-14561:	anh có đi qua bưu điện xuân mai không ạ
+1683534541.6465865_26917-26917:	(*->sao) có (những->nhớ) cái (đơn->thôi tớ) đấy trên hệ thống không không (không->*) ấy ạ
+1683600915.6514962_19997-19997:	a lô
+1683603189.6523095-split_v1-0-518410_3657-3657:	(à->*) thế à (mình->*) không (đặt->được) gì à
+1683614506.6541862-split_v1-550400-714570_2344-2344:	(võ->gọi) anh vũ ạ
+1683685774.6598155_22212-22212:	(nhá->rồi) dạ (dạ dạ láo toét->dạo khách) dạ (dạ->vầng) dạ (vâng mày gỉa nó cho tao tao đã->vầng nói chỗ nào ta) bảo (là->*) không (lấy nữa->ấy) rồi (cơ->*) mà
+1683688615.6609107-split_v1-2198400-2635850_5497-5497:	thế nhá có gì mai (em->*) đi làm (xong->hộ) em em (em->*) xem (xong em nhắn chị->sao)
+1683688901.6610557_27505-27505:	chị ơi cái đơn của chị đỗ thị hà (ấy->ý) thì chị yêu cầu lưu bao nhiêu ngày (ạ->*)
+1683689652.6614037_28065-28065:	(ok->nghe) chị nhá để em kiểm tra xem (nơi này->*) có (thuộc->tụ) địa bàn (bọn->của) em (thì bọn em->rồi anh) phát cho (cảm ơn chị->vâng)
+1683691542.6621535_27206-27206:	gì (nhể->à)
+1683703770.6641129_22622-22622:	dạ chưa chị ơi chưa ấy (gì->chị)
+1683704732.6643875-split_v1-1622400-2185610_11065-11065:	vầng ở địa chỉ là bao nhiêu một bảy (lăm->năm) đội (cấn->gần) hả chị các bạn (ý->*)
+1683704865.6644520-split_v1-0-566410_12876-12876:	(hôm->*) nọ (có một->*) hôm nọ có bạn đến giao mình không nhận ý ạ
+1683773184.6693278-split_v1-588800-1068810_6561-6561:	nhưng mà nếu mà như (các->cách) trường hợp có thẻ mà chị tự đóng được không
+1683773932.6695366-split_v1-0-531210_1940-1940:	khách hàng người gửi (tên->đơn) gì vậy chị
+1683777432.6706201_19564-19564:	sáng nay gọi lại cũng không (thưa->thương) máy
+1683789456.6722781-split_v1-1081600-1600010_4697-4697:	không bảy chín
+1683790158.6724433_26685-26685:	ba ba (ba ba ba ba->*) rồi ạ một không hai
+1683790741.6726192_23696-23696:	a lô a lô chị an đúng không ạ
+1683793799.6739042-split_v1-0-483210_3009-3009:	chị ơi em gọi cho mình (bên->*) bưu điện chị có cái đơn hàng mà sáng nay bưu tá gọi giao chị không được (ngày->em) mai chị nhận được hàng không
+1683801443.6763412-split_v1-483200-1040010_631-631:	năm năm tám
+1683859337.6785727_24074-24074:	đúng rồi (chỗ đấy->chưa đến) là bệnh viện (với cả->và) ngõ đủ các thứ ở đấy (trường->trên) đại học các thứ
+1683860794.6791130-split_v1-0-540810_5272-5272:	(được->đâu) anh ạ thế anh có (biết->bưu điện) địa chỉ đấy nó ở đâu (không->ạ)
+1683861078.6792399-split_v1-547200-1040010_1151-1151:	hôm nay thứ mấy nhở
+1683875469.6822599_17985-17985:	hôm trước có một bạn bạn ấy gửi cho chị qua zalo tại vì bạn (*->ý) gọi chị đến lấy (nhưng->thì) chị (bận ý->bảo ét mình đâu)
+1683878602.6834759-split_v1-499200-1027210_7249-7249:	bưu tá địa chỉ của anh là (thiếu bưu->chỉ ở khu) tá không tìm thấy (thì->nên) bưu tá gọi điện thì (vừa->*) mới a lô có chị có phải là chị (trịnh->chị) duyên không (cái->nói) là (chửi->thử) luôn
+1683881452.6847951-split_v1-0-483210_15683-15683:	a lô
+1683941222.6877033-split_v1-0-534410_14605-14605:	(chưa chưa chưa->rồi được rồi)
+1683943198.6880776-split_v1-512000-930250_14294-14294:	(*->rồi) ok chị nhá (có gì->bởi vì) em ra bưu tá có (*->có) gì các chị sẽ gọi cho chị (chị->*) nhờ gửi ở đâu thì chị (báo->bảo) các bạn ấy giúp em nhá
+1683947849.6893084_22145-22145:	(vầng dạ vầng->*) em chào chị
+1683949540.6898213-split_v1-0-569610_8612-8612:	(thì->*) thứ hai nhận được không chị ơi
+1683949540.6898213-split_v1-569600-749770_8615-8615:	đúng rồi
+1683950076.6899842_18993-18993:	rồi xin lỗi chị (nha->nhá)
+1683950318.6900725-split_v1-595200-1143690_11276-11276:	em báo (shop->suốt) rồi mà (shop lại->số người) gửi địa chỉ cũ
+1683950937.6903227-split_v1-1094400-1466250_11171-11171:	chị gì
+1683953601.6909038_18972-18972:	chị ơi nhưng em đang kiểm tra thông tin (ở->này) trên đấy là bên kia chưa hủy đâu nên sáng (nay->hay) bưu tá bên em không thể nào (cầm hàng đi->có màu) phát được
+1683956705.6911176-split_v1-0-636810_1315-1315:	liên hệ á em vẫn gọi được cho khách hàng bên (bên->*) em bình thường mà có biết nhà người ta không chị
+1683960134.6913396-split_v1-0-508810_9387-9387:	a lô
+1683969357.6932586-split_v1-579200-1113610_5476-5476:	đúng rồi lâu chưa ạ
+1683969638.6933122_19882-19882:	a lô ạ a lô bên chị có gửi hàng cho anh trường ý
+1683970670.6935330-split_v1-3030400-3622410_917-917:	anh hiểu (không thế->à tên) là (lại vì là trong->gì cái) cái cá của em người ta (vào->dạ) người ta gắn nhầm cái cá rồi (rồi->*) vào túi đấy
+1684059512.6963034-split_v1-595200-745930_4507-4507:	ok (ok->*) mai (vào lấy hộ chị vậy vâng->bạn lại vầng)
+1684118590.6981146_24921-24921:	thế thì anh để sáng mai đi xong anh hẹn (với bưu->*) tá (nhớ->nhá chị) tầm chiều là phải sau hai giờ
+1684123680.7000584_27834-27834:	(hai chín->địa chỉ) bảy năm một một hả chị
+1684135758.7017922_28874-28874:	rồi (rồi->*) anh (hoàn->hoàng) về cho em (đi->*)
+1684138650.7027014-split_v1-3168000-3820810_12104-12104:	đúng rồi bởi vì cái lượng đơn của anh thì ví dụ như nếu mà tầm độ mười chín đến hai mươi nghìn thì bọn em bắt buộc là phải năm trăm đơn một ngày thì bọn em mới có giá đấy
+1684138650.7027014-split_v1-4316800-4932810_12109-12109:	vầng vầng (*->thế) em cảm ơn anh có gì thì
+1684142680.7040619-split_v1-0-249930_3626-3626:	mới về (ạ->*) anh (lưu cho em đến->giunk) ba mươi chuyển hoàn nhá em tên trang (ạ->*)
+1684142977.7041629-split_v1-0-598410_13117-13117:	(anh->*) ơi đơn này khách có đặt đấy ạ anh anh (anh->*) xem anh đợi em một chút để em liên hệ với khách được không ạ
+1684202221.7062480_29103-29103:	vầng (chào->thưa) chị
+1684202768.7064050-split_v1-480000-913290_2361-2361:	(thế->*) không phải địa (*->chỉ) này (đây->*) địa chỉ này địa chỉ (ma->mai) rồi
+1684203248.7065265_18199-18199:	nhà số bốn đây khu (tập thể pin->biên thẻ viên) văn (điển đây->tiền đấy) đúng không (vầng vầng vầng->vâng vâng) em cám ơn có gì bưu tá sẽ liên hệ với anh nhá
+1684204520.7068517-split_v1-0-414410_17041-17041:	(ờ->*) thế thì cho mang cái (vỏ->bỏ) cho (em->*)
+1684204737.7068998-split_v1-508800-1043210_9218-9218:	rồi còn (một->*) số nữa (nha anh->rồi)
+1684207251.7077977-split_v1-0-512010_7158-7158:	vầng chị ơi em ở bên bưu điện mà chị có (mua->*) một cái đơn hàng là hai trăm nghìn ý thì chiều chị nghe máy em cho bưu tá phát lại cho chị nhá
+1684210327.7089431_24252-24252:	(chắc->*) là có em nghĩ là chắc (hay->hơi) có đơn khác (vì->thì) đơn này (kể cả->phải có) cho (dù->dùng) có thu cước thì nó cũng chỉ có hai mấy nghìn thôi
+1684210553.7090105-split_v1-0-585610_9931-9931:	bây giờ chị giao đến số mười (phạm văn bạch giúp em với nhá->chả hoành đấy)
+1684210553.7090105-split_v1-1129600-1670410_9944-9944:	(thì->thế) để chị vẫn phải chuyển sang bên cầu giấy kể cả hai địa chỉ này vẫn ở bên (cầu thuộc->phục) bên (*->công) cầu giấy không thuộc địa (phận vâng->nữa) bên chị giao hàng ý
+1684211678.7092911_24204-24204:	chiều nay (anh->*) để ý (nghe->*) điện thoại chứ (*->bên) anh không (không->*) gọi (anh->hay) không nghe máy (chúng->cho) em không phát được đâu ạ
+1684219089.7097419-split_v1-496000-982410_9533-9533:	vầng bọn em (văn->vẫn) phòng (giờ lại->ạ) chuyển về bên đấy ạ
+1684222559.7104483-split_v1-1708800-2230410_14333-14333:	(cổng->vầng) chào (đường tàu trần->đưang sau sân) phú ấy
+1684222559.7104483-split_v1-499200-992010_14317-14317:	(thì->*) em biết là xóm trần phú rồi
+1684226589.7121365_20100-20100:	có đơn (mình->*) có đặt đơn (đấy->ấy) nhưng mà (nhưng mà->*) cân nhắc trước khi nhận bạn ơi bốn triệu ba cái giờ mà (mà->*) giao tiền cho bưu tá bên bưu điện rồi (*->bây giờ) mà anh không lấy lại (được->*) tiền đâu
+1684231735.7138546_28235-28235:	bốn năm một (rồi->được) bao nhiêu (nữa->hả) không hai chín không hai chín hai chín năm hai chín năm (*->rồi) chị (ơi->*) chị (lưu->*) đấy (cho em->xem) vầng chị lưu ở (đấy thêm->đây nhưng) một tuần rồi có gì em phản hồi lại sau nhá em tên là gì nhở em tên là trang (ạ trang->*) rồi (ok->ô kê)
+1684233116.7140746-split_v1-0-505610_4324-4324:	a lô ạ a lô em báo cái đơn hàng của anh nguyễn đăng tú ở liên quan thạch (thất->sp) ý
+1684292806.7166725-split_v1-0-454090_999-999:	chị (linh->lên) ơi em (ở bên->hỏi là) bưu điện em gọi phát hộ chiếu của mình ý
+1684294326.7171867-split_v1-0-319050_10836-10836:	em (tưởng chị->thử) gọi chị vân
+1684296202.7178792-split_v1-0-473610_6609-6609:	(nếu như->đúng rồi) mình (không->còn) từ chối nhận thì để em xử lý
+1684314159.7211530_29002-29002:	(alo->a lô)
+1684315418.7215504-split_v1-0-314890_7252-7252:	vầng vầng vầng bưu điện (hà nội->*)
+1684375854.7237063_25288-25288:	chào anh ạ
+1684376067.7237857_28521-28521:	(dạ->*) vầng các bạn (có->cứ) phát trực tiếp cho anh không ạ
+1684380903.7252693-split_v1-0-483210_16772-16772:	(chị->trợ) lưu (dùm->giùm) em ba ngày đi (rồi->giờ) em gọi cho khách (em->*) xem (*->nào)
+1684382383.7257032-split_v1-0-647370_5910-5910:	dạ vầng chị đợi em một chút ạ
+1684390643.7264079_22658-22658:	chị có phải chị hân không ạ đúng (không->*) ạ vầng chị có một cái (chuyện khác với->chuyển phát của) bên bảo hiểm (gửi cho->rồi) chị thì chuyển về địa chỉ nào chị nhở
+1684392222.7266252-split_v1-0-505610_17231-17231:	(*->rồi) cứ bóc ra (rồi->để) gửi cho anh cái xem cái (là được->rồi)
+1684392222.7266252-split_v1-0-505610_17234-17234:	có phải anh là anh quang (không->*)
+1684396816.7279001-split_v1-0-483210_11472-11472:	a lô ạ (à vầng->*) chị ơi chị có một cái đơn hàng gửi cho khách
+1684398362.7284652-split_v1-502400-780490_2914-2914:	(thế->*) em (trả về->giả phải) ngân hàng nhá rồi em cảm ơn
+1684398716.7286200_25081-25081:	(lô ạ->rồi)
+1684399281.7288448_17816-17816:	em nghe không rõ (lắm->*) chị có nhu cầu nhận không chị dạ (không->hông) ạ (à->*) rồi em cảm ơn chị dạ
+1684400718.7294632_18847-18847:	(phan thái->văn hải) ạ ở phan thái (*->ở) đường lâm sơn tây
+1684403079.7302833-split_v1-0-643210_14569-14569:	anh có ở đấy đâu
+1684403815.7304891-split_v1-0-480010_8740-8740:	(bạn ơi mình ở bên->bênh) shop (kim lý->khi mình ý) ạ dạ
+1684405975.7308895_20828-20828:	tên (lâm đi->là gì) cho anh
+1684407297.7311014-split_v1-1104000-1801610_7526-7526:	thế thì (*->qua) tức là (con này->qua lại) chuyển hoàn về cho chị chứ gì
+1684455525.7317755_26053-26053:	nếu mà bây giờ mà gửi về (thì là->từ) phải ra trường (trường->*) mầm non (trẻ em thông minh ở đồng sậy hộ->hiệu sợ) chị (nhớ->nhá)
+1684459711.7321772-split_v1-483200-995210_7021-7021:	(đọc cho em->nó xem) cái cái số điện thoại khách hàng (đi->ý) tại vì nhà em không có mã đấy
+1684462488.7327511-split_v1-0-531210_16822-16822:	a lô (em->anh) bên bưu điện (mình có->một) thư chuyển phát nhanh ý chiều nhận được không ạ
+1684463940.7333254-split_v1-508800-1046410_10011-10011:	sáng nay (chuyển tiếp->chị biết) rồi
+1684470328.7356544-split_v1-496000-998410_7192-7192:	không chín bảy hai đúng không ạ vầng (*->ok) tám năm (năm->lăm)
+1684479506.7365713-split_v1-598400-1002250_4816-4816:	anh ơi cái này anh báo với cả ngân hàng luôn địa chỉ mới của anh (đi->đây) nhá để ngân hàng đồng ý thì chúng em mới chuyển (được đến->ở bên) đấy anh nhá
+1684485864.7389753_20728-20728:	a lô ạ em chào anh em ở bưu điện gọi đến ạ
+1684491294.7407590-split_v1-0-841610_10954-10954:	(em->thẻ) ở (bưu cục phát đây chị ơi->đâu)
+1684498215.7416778_27911-27911:	a lô
+1684565752.7448042-split_v1-0-652810_131-131:	đức (béo->báo) đức (béo->*)
+1684567380.7449454_18074-18074:	(à->*) vâng (em cám->cảm) ơn ạ
+1684568964.7452916-split_v1-1212800-2057610_6057-6057:	(ừ->*) tại vì mình thấy cũng (lạ->là) tại vì là đã đẩy sang (là phải có người lấy mình là ngày nào cũng->thẻ này) rất là nhiều đơn thì là bên bưu điện này (thì->chị) ít thôi (thế->thì) nhưng mà cứ (đẩy->để) sang (thành->thanh) hóa mình cũng phải đi gửi rất là (mất->mắc) thời gian ý thì hôm (nay->hai) tự nhiên có cái bạn ý bạn (ấy->*) gọi đến thôi bạn ý bảo là nếu mà không có người (lấy->ấy) thì là để bạn ý điều phối về cho có người (lấy->này) ý
+1684570349.7456887-split_v1-0-480010_10148-10148:	(à->*) thế thì sang tuần nhá
+1684571292.7459327-split_v1-0-505610_11041-11041:	(thẻ ngân->thế) hàng vpbank (ấy ạ->*)
+1684573409.7465829-split_v1-0-601610_2870-2870:	(xuân ổ a->phân à)
+1684575795.7470542-split_v1-2294400-2678410_10419-10419:	(thôi->thế) tắt máy đi chị gọi (zalo->*) xem nào (cúp cúp->cước cúc) máy (chị->thì) xem nào
+1684575795.7470542-split_v1-2294400-2678410_10423-10423:	(chắc là->ở) do máy điện thoại (ấy nhở em->à) ra ngoài rồi mà vẫn
+1684719114.7503695-split_v1-556800-1043210_10995-10995:	em mang (ra mãi bực->bưu) cục ở đức diễn (ấy->*) ạ
+1684723368.7514644_27152-27152:	(*->ok) của chị hiền á
+1684724287.7517333_20779-20779:	(dạ đúng rồi->*) mình (ở->có) bưu điện ạ bạn có cái đơn hàng ở (chỗ->chợ) đặng lương (ở->của) hà đông hà nội bưu tá đến phát thì người ta xem hàng không lấy mình liên hệ lại thì không thấy nghe máy đâu
+1684725517.7522299_24401-24401:	có cái thư của đại học (quốc gia->cấp ba) gửi cho em (này->cái) địa chỉ em nhận ở đâu đấy
+1684726207.7524946_21998-21998:	em cứ lưu (tại->lại) bưu cục (nhá->nha) có gì (bảo->báo) khách ra bưu điện (lấy->ấy) cho (em nhá dạ rồi rồi ô kê->anh nhờ)
+1684729100.7535285-split_v1-0-423050_12770-12770:	(chị->chỉ) có em ơi
+1684730899.7540159_25498-25498:	a lô
+1684736990.7544582-split_v1-1116800-1660810_9732-9732:	(giang văn minh ở cái->dạ vâng mình hiểu về) chỗ (đấy->lấy) thì họ lại đóng cửa rồi (nếu->nó) không (chị ra giúp->trị giao cho) em hai trăm bốn tám kim mã giúp em nhá
+1684739886.7549310-split_v1-0-518410_10083-10083:	sáng nay hả
+1684741769.7555513-split_v1-0-433930_6481-6481:	dạ (hông->không) chị
+1684743332.7561300-split_v1-0-502410_1266-1266:	(xe->*) nhà mình (hả chú->ở trú)
+1684746777.7575684_21797-21797:	chị ơi chị (hoàn->hoãn) cái đơn đấy về cho em với
+1684746951.7576285-split_v1-0-505610_1456-1456:	(và vũ trung kiệt và->của bưu) anh giải trình (vào->và) giúp em với
+1684746951.7576285-split_v1-505600-1030410_1475-1475:	mới nhận được báo cáo (đi làm hoặc đề nghị->y rằng)
+1684756586.7592580_26332-26332:	(đúng->*) rồi
+1684799651.7594636_24659-24659:	nhiều người bảo (thấm rồi->thắm thôi) ra rồi thì tôi không lấy (nên->*) cháu phải gọi trước vì nó là dính
+1684809033.7607762_27572-27572:	(alo->a lô) ạ
+1684810267.7611903-split_v1-1228800-1471050_7943-7943:	(vậy chắc là->về cháu nó) em gọi (số bưu tá không giao được thôi->tú xá hôm qua kho) chị (cứ->*) gọi lại giúp em một một (một->*) cái (có thể được->thế đưa) không (nào->*)
+1684812110.7619722_22572-22572:	thế hả (anh dạ->*) thế á (thế á vâng cho em hướng xử lý vâng ô->vầng che ứng) kê (ô kê em->*) hiểu rồi thế thì chuyển hoàn về cho em đi chị (tên->đơn) là chị chi luôn à vâng (ô kê anh ô kê để em chuyển hoàn hoàn về cho chi giúp em nhá vâng ạ->kem)
+1684824342.7641586_18078-18078:	bốn số cuối là ba (ba->*) một một (dạ vầng->*)
+1684826137.7644139-split_v1-0-588810_8796-8796:	vầng em bảo em đang có cái hồ sơ ấy (*->rồi) mà cái hồ sơ (mà->và) có (đuôi->vui) là hai không tám bảy sáu ấy
+1684829980.7656066_23143-23143:	vâng (không->xong) em vừa sửa em vừa báo (lên->đơn) bên bên (bên bên->*) bưu cục (phạm à bên->bin) cục (gửi của->*) bên em đây rồi bên em (sửa code->sự cố) lại với lại (ấy->máy) mà (là->la) sửa (*->ba) thành (còn->con) bao nhiêu
+1684830657.7658078-split_v1-729600-896650_13359-13359:	mai chị có nhà nhớ
+1684833761.7669683_25380-25380:	(lưu->*) cho em (bảy->bẩy) ngày nhá (em tên->bên) là huyền (ạ vầng ạ->dạ)
+1684835176.7672808_26616-26616:	mai có nhà (nhận->nhà) hàng không (ạ->à) mai (á->*)
+1684837062.7676216-split_v1-0-483210_5853-5853:	em bên bưu điện mà em thấy anh có cái đơn hai trăm ba mươi nghìn ý
+1684895193.7692852_25916-25916:	(hơn->bốn) tháng rồi mà tự nhiên lại (thấy thế->*)
+1684901563.7712889-split_v1-0-441930_3487-3487:	gửi cái (ảnh->này)
+1684913741.7727570_23835-23835:	(a lô->*)
+1684913971.7728382_25722-25722:	cái này là có mất phí không chị nhở dạ không cái này (khi->thì) anh sử dụng thì nó mất (phí->chi) phí thôi ạ
+1684918122.7745371_29110-29110:	(alo->a lô) ạ
+1684918633.7747316_20784-20784:	dạ vâng đúng rồi (chị ơi->*)
+1684920850.7753641-split_v1-1529600-2051209_8708-8708:	(em là ở chỗ năm->*) mốt (vũ trọng phụng->bưu cục) ạ (thế->về) tối (anh đến lấy được->cái đấy đúng) không
+1684924494.7760716-split_v1-518400-973450_11612-11612:	(chị->thì) hỏi luôn là bà có tiền chưa
+1684983069.7782775-split_v1-1011200-1187210_1287-1287:	(thế thôi->thấy) thế (thế thế->đây) về (*->giá) nhá
+1685000558.7815049_24399-24399:	(mười->bốn mươi) chín nguyễn cơ (thạch->hải) ạ anh cần (gấp->gốc) thì anh (ra hộ->giao) em
+1685017138.7851580-split_v1-1209600-1878410_10489-10489:	không biết là ngày mai trong giờ hành chính (*->thì) mình có tại địa chỉ (bẩy chín->để chính) ngọc hồi không ạ
+1685062015.7855629_18969-18969:	(*->a) lô
+1685067328.7863548_27338-27338:	số điện thoại là không chín bảy bốn rồi hai bốn sáu tám hai tám
+1685088466.7909972-split_v1-1555200-2140810_7294-7294:	chị chị (thử->*) hỏi giúp em xem là tầm khoảng ngày mười bảy mười tám (bên->đi) chị có nhận được cái thư nào không nhá vầng đợi em tí tại vì (nếu->dưới mét) mà (sava thì bọn->sau qua để bên) em lại không có khách hàng nào (tên sava cả->tênh)
+1685088466.7909972-split_v1-2140800-2557130_7295-7295:	vầng em ở số không chín một sáu ạ dạ rồi ạ một sáu sáu rồi ạ
+1685090622.7918577-split_v1-572800-1068810_1671-1671:	về lâu chưa ạ
+1685094356.7931090-split_v1-604800-1184010_6828-6828:	ngõ hai bẩy sáu
+1685157321.7960973-split_v1-508800-763210_13293-13293:	(nhà tuyến mai->tiến ơn) rồi để (mai họ phát cho nhá->maild)
+1685158959.7966189-split_v1-3280000-3807050_2679-2679:	vầng sáng mai mà mang vào em kiểm tra được (thì em->xem) lấy không thì thì (là giả lại->*)
+1685159674.7967923-split_v1-0-601610_13270-13270:	(dạ->nói) đúng ạ (*->của) anh bên bưu điện (ý->nhưng) mà em có cái thư bên đại học quốc gia hà nội trung tâm khảo (thí họ->thế nọ) gửi cho em (ấy->*)
+1685180881.8002903-split_v1-0-528010_2394-2394:	(ờ ai đấy->a lô)
+1685326780.8038293-split_v1-588800-1177610_9878-9878:	dạ số hiệu là e (y->*) ạ (i ngắn hay y dài em->*)
+1685327053.8039172_23745-23745:	a lô ạ dạ rồi anh ơi (*->cho) em bên bưu điện ý bên mình có đặt cái đơn (quả địa cầu ấy thì không biết hôm nay có ai gọi->quản lý cấu hình) cho anh giao hàng (chưa ạ->*)
+1685333637.8061435-split_v1-1616000-2233610_13535-13535:	chứ không phải là chính chủ hay là không chính chủ anh ạ nếu như mình sử dụng (phiếu->trường) số hai (thì->*) mình bắt buộc phải có chứng thực (một cái tờ->*) chứng (thực->từ) chữ ký ở bên phường cấp
+1685335198.8065982_19003-19003:	rồi ok (em->*)
+1685345748.8078493_20109-20109:	(chị->*) lưu cho em năm ngày em gọi lại cho khách nhá em tên loan dạ (vâng->vầng) chào chị
+1685347445.8085277_22124-22124:	rồi mười chín tháng năm đúng không mấy giờ khoảng mấy giờ mười giờ mười giờ chị nhá (ô kê->*) em (cám->cảm) ơn em (yêu->bưu)
+1685412643.8131724-split_v1-0-441290_16243-16243:	số (điện thoại->đơn hàng) người nhận (là->nó) không bảy bảy bốn
+1685412646.8131745-split_v1-508800-1014410_551-551:	bưu tá người ta bảo là bây giờ hợp tác xã tôi không biết phát (cho ai->*) làm gì còn hợp tác xã
+1685412969.8132440_20369-20369:	(vâng có có->vầng) chị chị (chị->*) cứ bảo bạn ý gọi điện vào cho em nhá
+1685414613.8138360_28166-28166:	(alo->a lô)
+1685417060.8146229-split_v1-0-646410_14371-14371:	(quạt->*) toàn (quạt to->có) mà
+1685419733.8155093-split_v1-0-422730_16149-16149:	a lô
+1685419742.8155128_25416-25416:	anh anh có phải (bạch->bật) thị (luân->luôn) là người nhà mình đúng không ạ
+1685421486.8159969_26428-26428:	(alo->a lô)
+1685431103.8167759_18921-18921:	vầng vầng (vầng->*) bưu điện (hà nội->*) xin (cảm ơn và->lỗi về)
+1685432330.8171534-split_v1-0-441290_17314-17314:	a lô em chào (anh->*) em bên bưu điện hà nội thẻ bảo hiểm y tế của mình đã đóng tiếp và được cập nhật lên chương trình (rồi->thì) em báo để mình yên tâm sử dụng giúp em nhá (của chu văn nguyện->hoặc là mêu) ý
+1685433407.8176123_18543-18543:	(nếu không->số) thì em chuyển cho địa chỉ cho anh bởi vì anh (đi làm->như nào) thường sáng đi tối anh mới về
+1685434531.8181406-split_v1-0-566410_781-781:	anh ơi cái cái (cái->*) đơn hàng (đấy->đây) của ai vậy ạ của tên là anh nguyễn (nhu nguyên->nhuy nguyễn) nguyên (nguyên->*) nhu ở một hai ba (nguyễn phong sắc->*)
+1685434531.8181406-split_v1-3408000-3841290_811-811:	bác (này->ấy) bác ngô đình (nhu đấy à->nhung ấy)
+1685435738.8185785_19404-19404:	mùng hai chị ạ
+1685435891.8186574_21015-21015:	mình mình (chuyển->sửa) chuyển (chuyển->*) chỗ rồi nhớ bạn (nhớ->*)
+1685436821.8190596-split_v1-480000-957770_16762-16762:	rồi rồi ok bạn không (thì->được) bạn (cứ->phú) bảo gửi (gửi cái->cho) bạn ở dưới (quầy->quê) lễ tân cho mình (nhé->*)
+1685437750.8194303_21160-21160:	dạ rồi cho em mã vận đơn xê (xê->*) năm bốn ba
+1685503933.8236500-split_v1-0-720010_11621-11621:	vầng anh ơi em có một đơn của anh (đặng sam->xem)
+1685524235.8278266-split_v1-0-825610_15527-15527:	bưu tá em không thấy có cuộc gọi (nhỡ->*) nào (cả->hả)
+1685524871.8280336_28390-28390:	anh ơi em ở bưu điện hoài đức ạ anh sơn phải không ạ
+1685585515.8305162_20806-20806:	nhầm rồi em (nhớ->nhở)
+1685587131.8309309-split_v1-0-489610_1578-1578:	a lô
+1685592081.8325249-split_v1-1177600-1920010_17633-17633:	(thế->thì) bà ổn chưa (bà->mã) ổn chưa em
+1685601210.8335461-split_v1-0-496010_5259-5259:	em (biết em->nghe) địa chỉ của em là mười ba trên ba sáu (đống->đóng) đa thành phố huế
+1685603575.8339630_26644-26644:	thế phải sang (tuần->tên) sau (mới->mình) lấy được hàng (à->ạ)
+1685605500.8344801-split_v1-1100800-1353930_1263-1263:	dạ (vâng->vầng) trong ngày mai (được->đúng) không ạ
+1685608997.8359771-split_v1-0-496010_17448-17448:	a lô
+1685668541.8389883_25695-25695:	a lô
+1685669498.8391362-split_v1-1654400-2050249_7685-7685:	cái này (thì->*) phải (phải->*) theo mã của của (của->*) trên (app ý->appe)
+1685672220.8395966-split_v1-556800-1040010_16315-16315:	(chả->thế thì được) có ai
+1685675173.8403463_23036-23036:	(vê->*) một a không ba vâng vê một a không ba khu đô thị (an hưng->văn hương)
+1685693993.8435102-split_v1-0-544010_10597-10597:	không không (không->*) sao (vì cái chung cư nó rất là an->bên chị cũng không thấy gửi hoàn) toàn (chị ơi đợi em tý->*)
+1685694008.8435159_26964-26964:	(cảm ơn em->*)
+1685696087.8440840_27589-27589:	(lấy cái->ngày) chứng minh thư
+1685699631.8450947_23492-23492:	bạn ơi cho mình hỏi số điện thoại của bạn lưu ở chỗ tổ dân phố quang minh (dương nội đúng->dinh thạ) không ạ
+1685700777.8453049-split_v1-480000-1065610_14760-14760:	(đã dùng->đúng) đâu (mà biết kém hay->viết cái) không kém (hay->*) là hay là em mở ra nó (thơm thơm->thôn) không (hay->hai) là nó (nó đặc->đã) không thì (thì->*) anh lấy (dạ->*) sao ạ
+1685701176.8453771-split_v1-0-496010_11352-11352:	khách hàng khách từ chối nhận hàng ạ
+1685702127.8455307-split_v1-1014400-1606410_3966-3966:	không (thì->lấy) chị chuyển tiếp cho em về hà nội được không
+1685759850.8468124_25927-25927:	(a lô a lô ạ nhà mình có ai->lộ hai) là lê quang huy không có (vầng->vâng)
+1685765812.8483918-split_v1-1008000-1090250_1303-1303:	(ô kê ô kê->ok) cảm ơn nhá
+1685774176.8488865-split_v1-0-480010_11517-11517:	(mất điện->có thiện) rồi
+1685774176.8488865-split_v1-3824000-4500490_11560-11560:	thế (con học->cô đơn) cô (nhàn thế con học vẽ->với) à
+1685777653.8492170-split_v1-0-499210_5417-5417:	sao lại đem ra là như thế nào chị bên bưu điện mà
+1685777653.8492170-split_v1-3558400-4400010_5461-5461:	(hàng nặng->hằng) quá thì chị (ý->*) chở (sao->xuống) được thì ở (bên->trên) chị sẽ điều (xe cho->tra giúp) em thôi
+1685781616.8501166-split_v1-499200-1180810_5774-5774:	có gì làm sự vụ giúp chúng em (nhớ rồi ok chị->nhá vầng) nhá (vâng->vầng) bởi vì số này là cái số ấy thì (là->*) gọi lại sợ không gặp em (ấy->ý) thế thì (chị đọc->báo) cho em số điện thoại của chị đi có gì em gọi lại cho chị không chín không một (bảy sáu sáu->*)
+1685933794.8542190-split_v1-0-480010_8351-8351:	a lô ạ (bạn->em) xử lý hộ tớ đơn hàng với bạn có gửi trang ở (ninh hiệp->nông nghiệp) một gói hàng cái này khách hàng từ chối không nhận hàng đâu nhá bạn nhá
+1685934297.8543540_21457-21457:	vầng ạ mình có đặt đơn hàng (giày->giê) trị giá một trăm chín mươi lăm nghìn ý hôm nay anh nhận được không để em báo bưu (tá->*) em giao
+1685935366.8547228-split_v1-505600-1011210_3458-3458:	(à->*) chị ở tòa chung cư
+1685936412.8550115-split_v1-585600-1116810_6512-6512:	(thế->*) chiều nay chị có ở đấy không thì để các bạn ấy phát lại cho chị
+1685937964.8555570-split_v1-0-410570_15952-15952:	(chiều->kìa)
+1685951409.8574451-split_v1-598400-1296010_15774-15774:	lúc đấy mình làm nhân viên gì ý ạ
+1685954013.8583706-split_v1-0-518410_15915-15915:	vầng ngày mai (chị->chỉ) có (ở->*) đấy (để->thì) chị nhận không chị nhở
+1686019894.8622111-split_v1-0-486410_2994-2994:	em bên bưu điện mình có cái đơn hàng điện thoại (cũ->cứ) không biết địa chỉ nhận hàng của mình (ở->*) đâu đấy ạ
+1686024444.8637172_18317-18317:	(ai đấy ạ->thế à) vầng anh ơi em ở bưu (điện đan phượng ạ->điệnk an phường à) anh có đặt đơn hàng là bốn trăm năm mươi nghìn ý thì anh có đồng ý nhận lại không để em (cho->sẽ) bưu tá phát lại ạ
+1686034803.8644421-split_v1-0-528010_8362-8362:	đâu (bưu tá->không ta) đâu đây (làm->*) sao (lại->đấy) không gọi (được->*) số (này nhỉ->*) a lô
+1686036966.8649572_24579-24579:	a lô
+1686041268.8663167-split_v1-796800-1436810_15409-15409:	(đúng rồi->của)
+1686106232.8690842-split_v1-0-496010_6444-6444:	anh ở bên bưu điện ạ
+1686106244.8690877-split_v1-0-537610_15003-15003:	(ò->*) phát (mấy->minh) ngày hôm nay luôn hả (anh->*)
+1686106380.8691243_21211-21211:	đúng rồi (vâng->vẫn) thẻ bảo hiểm y tế của anh (hôm->không) mùng năm tháng (sáu->*) em thấy mình thanh toán chưa thành công không biết anh đang vướng ở đâu bên em sẽ hỗ trợ (ạ->*)
+1686110994.8704994-split_v1-0-364490_6171-6171:	(thế là->bây giờ) em em hoàn (giả shop nhá->thiện trả<unk)
+1686125119.8723364-split_v1-502400-1014410_2257-2257:	hai hai này văn (quán->quá) à
+1686133840.8744094-split_v1-0-496010_16255-16255:	chưa thấy (nổ chị ạ->đổi thì) chắc một tí (rồi->*) có
+1686133840.8744094-split_v1-0-496010_16257-16257:	đây (đây->*) em kiểm tra
+1686135868.8746312_19052-19052:	a lô ạ
+1686186336.8751304_26844-26844:	(nhầm nhầm->trăm năm) số (rồi->*) nhá
+1686196025.8771991_26172-26172:	mình tên linh rồi em cảm ơn anh nhá (em->anh) chuyển (hoàn->vào) luôn nhá
+1686196099.8772207-split_v1-0-636810_4744-4744:	chị ơi em bảo có một cái có cái đơn (hàng->*)
+1686210817.8789867-split_v1-521600-996810_1442-1442:	(rồi->*) ok (em->*)
+1686210817.8789867-split_v1-521600-996810_1445-1445:	(vâng->vầng) chào chị
+1686210820.8789876-split_v1-0-480010_9257-9257:	cái đơn này anh tức là quay lại xong rồi gọi lại cho shop giúp em để (để->*) shop liên hệ để giảm tiền phát cho khách giúp em với nhá
+1686210820.8789876-split_v1-1184000-1555210_9266-9266:	(để để->*) vầng thì (thì->*) lúc nào (mà->*) anh đến khách đến (lấy->đấy) cái đơn kia thì xong anh gọi lại cho (shop->suốt) để phát lại cái đơn này giúp em nhá
+1686275766.8818560_21696-21696:	đúng rồi (ạ->*) thẻ bảo hiểm y tế của mình (em->nên) thấy là mình đóng rồi nên mình yên tâm sử dụng tiếp giúp em nhá
+1686278910.8826755_28285-28285:	(trong->*) giờ (hành chính ạ->ừ)
+1686279465.8828516_22418-22418:	(bây->*) thế bây giờ (bây giờ->mình giỏ nó ra) có được không bây giờ không có người mang vào thế thì mai cái tầm này nhá (mình hẹn->với lại) hơn tí nhá
+1686280547.8832277-split_v1-1660800-2100490_227-227:	mình có ở nhưng mà mình đang đi làm trong công ty
+1686280547.8832277-split_v1-544000-1116810_213-213:	cây cây cây (cây đa thôn đạc tài->đai)
+1686282125.8837989-split_v1-0-483210_7104-7104:	(dạ dạ->rồi) em ở bưu điện hà đông mình có một cái hàng của một (chị->trị) tên là lê thị giang ở thanh hóa gửi cho ý (dạ dạ->*) về địa chỉ khu phố hai là ở đâu đấy anh
+1686295813.8853266-split_v1-0-453450_14717-14717:	(anh->nguyễn) thanh toán (từ->thì) cách đây mười ngày (rồi thế à mình->đấy là mới) thanh toán trước (à tại vì->ở việc) của anh (đến mùng->đấy mua) hai (*->hàng) tháng sáu mới hết hạn mà (vâng->*) thế (em cảm ơn->anh cắm) ạ em chào anh (đạo->đào) ạ
+1686297506.8856806-split_v1-563200-1110410_10039-10039:	đấy ở ngay cạnh nhà nghỉ (thanh->xanh hạ) cạnh dưới nhà nghỉ (thanh nhá chỗ->xanh) giữa chỗ tầm quất với (nhà nghỉ thanh->nha gửi xanh) nhá (cạnh nhà nghỉ thanh->các anh nha anh) chị (từ->oát tơ) đây em (đi lên->*) là (tay->tai) trái (hay->*) tay phải hả chị
+1686297986.8857933-split_v1-598400-1235210_11449-11449:	nhưng mà bây giờ em (đang không cầm với cả->phảiác lên tổng bưu) em không nhớ
+1686298388.8859045-split_v1-0-496010_16057-16057:	(*->cái) đơn này để em xem anh có thu phí (hủy đơn không->gì đâu lưu) nếu thu phí (hủy->ở) đơn là thu được (ngay nhưng->anh thế) còn nếu anh không mà nó sai (màu này->mà lại) thì người ta sẽ không (giả->dám) ship đâu
+1686298388.8859045-split_v1-496000-979210_16069-16069:	(à bên bưu điện cơ à->nhận được)
+1686299000.8861257_25424-25424:	một (tám->trăm) tám một tám tám
+1686363813.8891827-split_v1-0-588810_10570-10570:	a lô ạ chị ơi bưu cục phát đúng không ạ đúng rồi chị hỗ trợ giúp em đơn này (*->ra) giao phát lại cho khách ngày mai giúp em với đọc mã ạ xê (xê->tê) năm bốn tám
+1686364732.8893763-split_v1-2374400-2829450_11651-11651:	em ơi em kiểm tra cho chị cái thẻ bảo hiểm của nguyễn văn (lượng xem đến hôm->phượng trên đấy thu) nào là hết hạn em đọc cho em mã số bảo hiểm em kiểm tra được (ạ->*)
+1686366105.8897484-split_v1-1027200-1397130_4787-4787:	rồi cảm ơn (anh->em) nhá
+1686366701.8899169_27454-27454:	em có văn phòng ở đây rồi bây giờ nhận thư ở đây đúng không ạ vầng (rồi rồi->*) ngách mười tám trên một (*->ờ) nguyễn (cơ->cư) thạch (thì rồi để->bà) bao (bao->*) giờ chị giao (được->rồi) nhở
+1686367884.8902760-split_v1-0-617610_13522-13522:	đúng rồi bạn vâng em ở bên bưu điện mình em thấy có báo thu gom hồ sơ bảo hiểm mà từ tận mười (bảy->bẩy) tháng năm ý chị còn cái hồ sơ nào lâu như thế không ạ
+1686368988.8905764_24030-24030:	cái (đứa->đường) đấy nó bảo với em là cái anh kia cứ chửi nó nên là bố nó không cho nhận bây giờ nó đang bị vướng (lịch học->với nhà hàng) có gì chị bảo (khâu giữ hàng->kho hoài) cho (nó->đơn) đến (chủ->chính) chủ nhật (được->*) không chị
+1686369443.8907056-split_v1-0-394250_12460-12460:	(*->mình) nguyễn thị thùy linh (đúng không ạ em em->*) bưu điện chị có (đưa->*) cái thư cổ đông của tập đoàn lại dương gửi (chị có nhận thư->*) này không ạ
+1686370188.8908665-split_v1-1024000-1507210_5094-5094:	thì đi (thẳng vào->học ở) trong thì trong (cái bãi->số máy) vật liệu (ấy cậu biết bãi vật liệu->đấy có bưu) không (chỗ đường->đồng) của việt (anh gớm em->nam) không đi phát chị ơi em không đi phát chị ơi bởi vì cái địa chỉ này về bưu điện hoài đức nhà em toàn ghi mỗi hoài đức không
+1686388296.8929976-split_v1-0-576010_15881-15881:	(dạ->*) a lô
+1686391658.8935830-split_v1-0-566410_10903-10903:	em ở bưu điện hà nội có cái (cái->*) bản (*->chính) khai sinh bản sao (bản->bạn) gốc (gì->vì) giấy khai sinh mà chị gửi cho vũ ngọc lan ý
+1686537881.8964824_20700-20700:	(người ta->*) không nhận nữa thôi ạ chị cho thông tin giùm em với
+1686539059.8968125-split_v1-0-537610_713-713:	nhưng mà (bao giờ em ship vào->bác sĩ sh bật) cho chị
+1686539543.8969406_27549-27549:	chín ba sáu chín ba sáu chín một hai nguyễn thị (nguyệt->nguyễn)
+1686553711.8987549-split_v1-1113600-1737610_14093-14093:	từ hôm đấy (đến->*) giờ gần chục ngày (giời có->rồi) thấy (ý ới->*) gì đâu
+1686556527.8993786_24739-24739:	dạ có chị
+1686559184.9002604_25444-25444:	không phải vì cái thẻ này là không để ở (cổng bảo vệ->cầu mà về) được
+1686561652.9010968-split_v1-0-563210_16773-16773:	(à vâng->vầng) nghĩa là mình (ơ->ở) phường trung (hoà->hòa) hay là mình ở đường trung (hoà->hòa) luôn hả anh
+1686569677.9025613-split_v1-0-489610_1751-1751:	a lô
+1686627855.9052489_25947-25947:	(phong nào nhở->không là nhờ) tại vì chị làm gì có (bảo vệ phong->bảy không) bảo vệ (phòng->không) à
+1686631041.9060591-split_v1-0-547210_17056-17056:	(e->ắc) quy này sáu một một này
+1686646661.9094376-split_v1-483200-998410_769-769:	hôm đấy em tưởng là em (đưa căn cước cho ông->bưu sơn xong) anh (ấy phát rồi ý nhưng mà anh ấy lại->lúc nãy) không chắc là nhiều việc quá (anh->em) không đính kèm ở trên hệ thống (anh đọc lại->xem là gọi) giúp em với (ạ->*) không ba sáu gì (nữa->*) ạ (hai không->cái số) một không
+1686653049.9109380-split_v1-1593600-2108810_5763-5763:	(vâng->vầng) cũng được chị ơi
+1686705915.9115972_21664-21664:	a lô (a lô->*)
+1686713198.9135228_21463-21463:	(a lô->*) dạ đây có phải số máy của người nhận là (thi mén không->shom) ạ
+1686714168.9138400-split_v1-2041600-2684810_1572-1572:	(nó đưa->*) mẹ đi mà
+1686714168.9138400-split_v1-995200-1545610_1551-1551:	(à->*) thế à
+1686727072.9156475_21196-21196:	gì đấy a lô em chào chị em (em->bên) bưu điện hà nội ạ thẻ bảo hiểm y tế của chị hiền ý thì của mình đã đến hạn để đóng tiếp em thấy mình đã đóng ở trên chương trình rồi đúng (hông->không)
+1686730511.9169192-split_v1-0-572810_7312-7312:	(em->*) chào (anh->*) em bên (bưu điện hà nội->em) phạm (như hiền có phải->bưu) của nhà mình (mình->*) đúng không ạ
+1686732862.9178768_29084-29084:	hai mươi tháng tư rồi (*->ạ) hai mươi tháng năm rồi mà
+1686733165.9179772-split_v1-1283200-1808010_3521-3521:	không có đâu chị hoặc là mình đã quên ghi ạ
+1686733165.9179772-split_v1-1808000-2832010_3524-3524:	(như->*) yêu cầu của người ta người ta đang yêu cầu là gửi cho họ cái cái (cái->*) phiếu (ký->*)
+1686733351.9180386-split_v1-620800-1008010_5995-5995:	không cần nữa à hai trăm mười chín (trung kính->*) vừa viết xong bảo yên hòa (cầu giấy ra lấy thì lại bảo hủy à->cuộc thanh thủy ạ)
+1686734475.9183706-split_v1-0-480010_15699-15699:	(tân đức à->tin tức)
+1686734886.9184555_20072-20072:	a lô vâng đợi em (tý a lô->đi)
+1686795368.9205256-split_v1-489600-1017610_11215-11215:	(nghĩa->thế) là hôm qua em có nhắn tin thì ông (ý->*) bảo là (nghĩa->miễn) là ví dụ vào cái giờ (họp ý->đi) thì họ lại không không (không->*) nghe được (ý->gì)
+1686795500.9205591_22652-22652:	(thì->thế) lúc nào anh về anh qua chỗ bưu điện khánh bình nhận giúp em nhá
+1686801414.9223830_19362-19362:	hôm nay bên (chỗ kia bơm->cháu đưa) bảo bưu cục (giữ lại->thế này) đến ngày hai hai đấy
+1686812347.9234279-split_v1-566400-1100810_7749-7749:	số hiệu (đây->đấy) nhá (vầng số hiệu hay->chị có) số điện thoại số hiệu ạ (cs->vê ép) hai tám sáu tám bốn chín năm chín sáu
+1686816278.9244771-split_v1-0-601610_12670-12670:	cái này thì mình vừa gọi cho bạn ý thì bạn (ấy->*) bảo là giờ (hành->*) chính là bạn đi làm mà giờ ngoài giờ hành chính (thì->vì) bạn nhận được thế nhưng mà bưu tá thì đi phát đến mười hai giờ hơn người ta gọi lại thì vẫn lại bảo là đi ngủ không nhận được hàng (*->thế) thực ra là bạn bảo là mười một giờ thì có thể là bưu (giá->tá) người ta đang phát (ở->là) địa chỉ khác (*->là) người ta không qua được đấy thì bây giờ nó quá giờ (đấy->đến) ở nhà cũng không phát được cũng không nhận được (như->*) này (là bọn->*) mình khó (phát->khăn) cái đơn hàng này lắm (nên->*) bạn thử hỗ trợ (xem->cho em) giúp mình xem giải quyết kiểu gì được
+1686816867.9247199-split_v1-547200-1132810_10047-10047:	thì (thì->*) thực ra mình (sẽ->phải) cho bạn kia cái bạn bạn thanh (đó->nó) số điện thoại của bạn sau đó là bạn (thanh sẽ gọi trực tiếp->thấy thầy coiforýp) cho bạn
+1686817511.9249676_24640-24640:	vầng thế em lưu (chị->thị) mấy hôm nhá
+1686820748.9261673_24694-24694:	chín sáu tám một hai sáu
+1686822567.9266907_17942-17942:	mình có phải ở đường cổ (nhuế->nhuyễu) không (cô->*) nhở
+1686826957.9271554_28481-28481:	(ở->*) xã nào (chương->chứ) mỹ (đấy->*) ạ
+1686831744.9273499-split_v1-480000-1036810_16428-16428:	gọi cho anh (*->gọi cho anh) bảo là là (là->*) anh đang ở quê (sao->xong) lại (bảo là->*) nếu mà đến thứ bảy chủ nhật (mà->*) cách tuần trước ấy tuần trước nữa (ấy chứ không phải->đúng rồi) tuần vừa rồi (đây sao mà->xong bạn) nếu mà anh (*->phải) không (lấy->ở) thì em hủy đơn hàng (nhé->nhá)
+1686874541.9274375_23484-23484:	bốn mươi (a->ba) nhân (mỹ em ơi->bị) bốn mươi hai nhân mỹ (à->ạ) bốn mươi (a nhân mỹ->hai lê) bốn mươi a nhân mỹ (à->hả) anh ở mặt đường luôn à (*->ừ) đúng rồi em có gì để ý (điện thoại->tòa) nhận hàng giúp em nhá
+1686884797.9290058-split_v1-2102400-2627210_3296-3296:	cái đơn hàng quan trọng của em (ấy nên->đấy) là em gọi gọi (gọi->*) suốt luôn từ hôm qua đến giờ luôn
+1686886352.9294359_17807-17807:	a lô em chào anh (em->*) bên bưu điện hà nội nguyễn trung thu có (phải->về) của nhà mình đúng không ạ vâng đúng rồi ạ (em ở->*) bên bưu điện hà nội (hôm mùng->không một) năm (tháng->là) sáu bưu điện hà nội nhắn tin thanh toán online không biết mình có nhận được tin nhắn đó không
+1686886684.9295358-split_v1-0-665930_1071-1071:	a lô ạ
+1686887176.9296941_23326-23326:	(vâng vâng->vầng vầng) để em (hoàn nhá->hỏi)
+1686901636.9314289_19721-19721:	(pê a->xe) bốn không hai
+1686906129.9326962_22412-22412:	rồi (ô kê ạ rồi rồi->ok)
+1686906843.9329337-split_v1-0-585610_11099-11099:	cho (khách xem hàng đi->em hỏi) chị (dạ->vâng)
+1686907249.9330520-split_v1-0-550410_16995-16995:	(nhưng->*) em có ở (mỹ trì->vĩnh) đâu ạ
+1686971090.9357569_22592-22592:	a lô (a lô->*)
+1686986406.9373051_27982-27982:	(alo->a lô)
+1686987570.9374710-split_v1-614400-1145610_17662-17662:	có phải là mình ở chỗ bình định đúng không ạ
+1687156314.9443941-split_v1-0-556810_1639-1639:	đơn hàng gì em nhở
+1687165712.9478042-split_v1-0-505610_7088-7088:	dạ em có ạ vầng chị đọc địa chỉ mới (đấy->đi) giúp em được không thôn đồng vang
+1687165774.9478201-split_v1-489600-1040010_5597-5597:	(bảy mươi->đấy mười) ba (la->*) có phải có cái kho (ở dưới dưới->gì) đường sắt (đấy không->điêu)
+1687165774.9478201-split_v1-489600-1040010_5598-5598:	(bảo->áo này) đến sớm (đi đến->*) tám giờ đến đi để (tao->ta) còn đi chứ (phải ở->*) nhà đợi (thuốc đâu->*)
+1687168050.9484903_25155-25155:	(mình->*) bán hàng (*->có) ngay (chỗ cửa kính đức tuyên bán hoa->có ký được tiền bảo) quả đấy nhưng mà đấy là áo của (nam hay->lam) của nữ (đấy->*)
+1687168615.9486222_24448-24448:	em thấy có mã (chuyển về->thẻ) rồi mà chị nhở (*->chị nhở)
+1687225092.9499509-split_v1-1584000-2112010_16594-16594:	(ý là->*) em đang (có nói là->*) không em (em->*) kêu là đơn (hoàn đi chừ chật quá cô không lấy->hàng đây kêu chắt có hôm lái) mà
+1687228897.9507688-split_v1-0-560010_15475-15475:	(vietjet à->ghép)
+1687231093.9513904_20907-20907:	em lưu (*->cho) chị đến hai lăm nhá rồi (->*) ok
+1687231715.9516467-split_v1-508800-903690_3390-3390:	(ừ ừ->*)
+1687233181.9522640_23964-23964:	vầng em cảm ơn chị ạ vầng dạ vâng ạ cảm ơn anh (*->chào anh)
+1687245465.9537778_27366-27366:	(alo->a lô)
+1687250125.9555997-split_v1-496000-1027210_8409-8409:	(ấp->*) bốn rồi ạ (xã tam hòa xã gì anh xã->dạ tầm ok anh dạ vầng dạ) tam hòa
+1687260052.9580279_21616-21616:	a lô
+1687316642.9601350-split_v1-0-572810_7869-7869:	em là sáu ba trên bảy (lăm->năm) lê (đức->thị) thọ ý (gì bộ->*) số nhà bốn mốt sáu ba trên bảy (lăm lê đức thọ->năm lên)
+1687321354.9616368-split_v1-499200-653450_7669-7669:	(chưa->*)
+1687321763.9617246-split_v1-0-287370_2492-2492:	(*->phải) có gì em lưu cho anh năm ngày (anh->*) liên hệ lại (người->với) nhận nhá
+1687339037.9654883-split_v1-1577600-1966730_14503-14503:	sáu chín sáu bẩy
+1687347696.9668793-split_v1-0-508810_11851-11851:	(ok ok mai mai mai->số điện thoại mà)
+1687395643.9671908_20540-20540:	a lô (a lô->*) ạ mình có (phải bùi văn sinh->bưu pháting) không ạ
+1687396786.9672482-split_v1-0-547210_6744-6744:	(a lô->mẹ đi mà)
+1687398730.9675230-split_v1-729600-1149130_14476-14476:	(gọi->ngoại) người gửi (nó bảo->báo) sao
+1687399794.9677469-split_v1-0-595210_9455-9455:	(ơ->*) nhưng mà tức là thẻ bảo hiểm y tế (*->đấy) thanh toán online (là như nào->này hả) chị em chưa (hiểu->nhở)
+1687400748.9679977_21729-21729:	đợt đầu bọn em chưa có cập nhật ý thì bưu tá họ (họ->*) ghi là ở (ở->*) mặt trước (ấy rồi->ý) thì (lần sau vậy chứ trừ lỡ ghi rồi thôi rồi lỡ ghi rồi->là sao chị sẽ chừng) mình tên gì anh nhở (thông thông->không) thế em cứ lưu (bảy->bẩy) ngày (ở->mà) kho (nhá->nhớ) hay (lưu mấy ngày anh->linh mười nghìn) nhở (dạ dạ rồi bảy ngày chị anh->bạn) thông đúng không (dạ dạ vầng lưu->như) bảy (ngày nhá->này) anh (thông nhá->*)
+1687402772.9686534-split_v1-0-592010_15559-15559:	(*->lại) không bảy bốn ạ
+1687402772.9686534-split_v1-0-592010_15566-15566:	một không bốn
+1687407570.9703224-split_v1-636800-1090250_10743-10743:	thế em nhận ở đấy đúng không
+1687409083.9706516_25966-25966:	a lô
+1687417240.9710775_27448-27448:	bây giờ mình (chuẩn bị->*) làm (kí hợp đồng lao->tiếp tục nó) động (với->ở) bên ngân hàng (quốc tế vib nên->phúc cái vp) là mình không đóng nữa tại vì mình (chuẩn bị->chưa thấy) được đóng (bảo hiểm xã hội rồi dạ vâng em cảm ơn->sau hỗ trợ)
+1687418245.9712537_27963-27963:	(dạ không->có) phải đâu hôm qua nó bị (sót mất->xót lắm) một cái thư của em (đấy->ấy) thế bây giờ từ từ (từ->*) chiều hôm nay không (*->được) sáng chiều hôm qua em không đóng đi sáng nay em đóng đi chị thấy đang nằm (im->*) ở đấy thế bây giờ chiều hôm nay (chị ơi->*) của em của em ở đây (tuyến->từ) xã chỉ có một chuyến tối thôi chị ạ
+1687419394.9714866_18294-18294:	hỗ trợ ba mươi nghìn rồi ạ
+1687419414.9714918-split_v1-569600-997770_505-505:	không (viết thường->biết thì hoàng) hết chăm sóc khách hàng hát nờ a còng hai không hai ba
+1687425369.9737319-split_v1-1680000-1897290_9589-9589:	rồi thế thì mai anh (ơi->*) để em báo bưu tá mai đến phát (lại->ngày) hàng cho anh nhá
+1687427010.9741721_20163-20163:	em có một đơn hàng một trăm tám (tám->*) nghìn (em->ừm) báo là chuyển về cam thượng (ba vì->bao v gì) cho chị lại địa chỉ để chị chuyển tiếp cho em nghe được không
+1687431535.9748263-split_v1-489600-972810_8637-8637:	nhưng mà vấn đề (chiều hôm qua em->gì ông quang) gọi cho anh anh không nghe thế nên (là->*) không phát được
+1687431694.9748323-split_v1-0-489610_17318-17318:	(*->thì) mai có nhà không (*->thì) em để để em (bảo->hỏi) bưu tá phát cho ạ
+1687432223.9748796-split_v1-0-521610_5250-5250:	tám bảy tám bảy
+1687484854.9754679-split_v1-1072000-1264010_17597-17597:	rồi (rồi rồi chị->ý) nãy chị mới nhắn bên công ty nói (huỷ->hủy hết) đơn (*->rồi) chị đặt (số->thuốc) khác (*->rồi)
+1687487138.9759434-split_v1-0-556810_7230-7230:	a lô vâng đơn (kia->*) em bảo hoàn từ hai mươi (để->*) người ta em điện cho người ta người ta bảo hoàn từ (*->hà) hai mốt hai mươi hoàn (rồi->*)
+1687487393.9760197-split_v1-1139200-1657610_11514-11514:	(đáng->báo) ra (là->vào) ngày hôm qua (là->ạ) không không liên lạc được phải gọi lại cho mình luôn ý tại vì hôm qua người ta có (ở->*) đấy hôm nay (thì->chị) sợ người ta không có đấy nữa (thôi->*) cứ gọi cho mình đi
+1687488321.9762459-split_v1-505600-1061450_8980-8980:	gọi lại số này cho mình luôn (đúng->số) không (ạ dạ->gọi) vầng
+1687489062.9764230_28733-28733:	một (hai->*) một ạ (vầng->*)
+1687493937.9778020-split_v1-0-502410_8828-8828:	(ôi->*) em lại (ở đang->đấy ra) ở trên hà nội cơ em không có nhà (thế->*) chị cứ để đấy
+1687494345.9778705-split_v1-489600-1001610_13699-13699:	cho em số (khách không tám chín->khanh) sáu
+1687495901.9780955-split_v1-1584000-1839690_11748-11748:	vầng thế thì (đến->*) đấy thì ai chuyển khoản cho em ạ
+1687495901.9780955-split_v1-537600-1081610_6770-6770:	anh (đang->đã) đi vắng (xa->ta)
+1687503345.9783778-split_v1-0-489610_13776-13776:	dạ em nghe (đây->*) em ơi em đang trả lời chị là bưu điện trung tâm một không phải đầu mối (ký->tình) hợp đồng với khách hàng này là như nào chị chưa hiểu lắm vầng
+1687504930.9786566-split_v1-569600-1091210_2212-2212:	bùi thị mai (chứ->ý) gì
+1687505175.9787150-split_v1-0-360970_16892-16892:	bưu điện báo đơn hàng (ạ->*)
+1687505868.9789002-split_v1-0-473610_12609-12609:	(vâng->vầng) anh ơi em ở (*->bên) bưu cục gốc có cái đơn (*->vào) của bạn mai hoa (ấy->*) ở địa chỉ là (bảy->bẩy) chín thanh đàm phượng (*->thành phố) phường thanh trì hoàng mai hà nội anh phát được cho khách (chưa->*)
+1687508169.9796028-split_v1-512000-1110090_2071-2071:	(thì->*) em (lưu->luôn) cho mình (cái ngày->rồi) hai chín (thì cuối giờ->gì cố ra) cố gắng (ra đấy->giao đến) nhận hộ em nhá
+1687571112.9825994_22309-22309:	có cần mã hay gì không
+1687573191.9829485-split_v1-0-387530_1381-1381:	(vâng->*)
+1687575394.9835370-split_v1-1580800-2098250_8554-8554:	tám năm tám chín tám (không->sáu) đúng không vầng
+1687576019.9836911-split_v1-0-336330_14582-14582:	a lô
+1687576471.9838142_21762-21762:	a lô a lô mình (có->*) phải (hải yến->gì đúng) không ạ (ai ý nhở->dạ) em bên bưu điện mà không biết nhà mình có ai tên là hải yến không (anh->*) nhở có (em ơi->*)
+1687577740.9841939-split_v1-0-528010_9478-9478:	(à->*) đây rồi chị ơi lê thị oanh chị ơi đơn hàng (này->*) có vấn đề gì (vậy->*)
+1687594350.9861838-split_v1-0-477450_15790-15790:	(ờ->*)
+1687742534.9889298-split_v1-0-275850_6757-6757:	a lô mình phải (hùng->*) nguyễn (*->đúng) không ạ
+1687746584.9898936_18510-18510:	(anh->*) ơi anh có cái đơn hàng gửi cho người nhận tên là anh ở yên (giáp tiến thịnh->dát đến thị) mê (linh->anh) hà nội bên em (đi->bưu) phát mấy ngày gọi không nghe máy đâu (cho em hướng->trời muốn) xử lý
+1687747912.9903122_27598-27598:	thế để chị (cho hỏi->xem) lại
+1687751648.9914928_19392-19392:	vầng vầng hôm nay phát lại giúp em với ạ
+1687753366.9919081-split_v1-985600-1756810_2787-2787:	anh (ơi anh->*) đọc địa chỉ (hộ->của) em cái
+1687765743.9937013-split_v1-0-210250_2089-2089:	(vâng->*) chào (anh->*) em bên (bưu điện->*) hà nội (ạ->đã) thẻ bảo hiểm y tế của mình đã đến hạn để đóng tiếp ý (của->*) lê thị xuân có phải của nhà mình không
+1687767811.9945845-split_v1-1129600-1642570_5184-5184:	thế thì lúc nào ra cũng được
+1687770253.9954596-split_v1-0-496010_8475-8475:	đều mất hết rồi thì có phải ghi vào không ạ
+1687781046.9970800-split_v1-0-408010_15937-15937:	em chào chị ạ
+
+SUBSTITUTIONS: count ref -> hyp
+11   vâng -> vầng
+9   alo -> a
+4   ạ -> à
+4   em -> anh
+4   bảy -> bẩy
+3   ấy -> ý
+3   đến -> đấy
+3   đấy -> ấy
+3   đấy -> đến
+3   vầng -> vâng
+3   thanh -> xanh
+3   ra -> giao
+3   năm -> lăm
+3   nhớ -> nhá
+3   lấy -> ấy
+3   lăm -> năm
+3   chị -> thì
+3   cho -> xem
+2   ấy -> đấy
+2   đấy -> đây
+2   đây -> đấy
+2   đi -> đây
+2   ô -> ok
+2   à -> ạ
+2   xã -> dạ
+2   vũ -> bưu
+2   vì -> v
+2   tên -> đơn
+2   thế -> thì
+2   thì -> thế
+2   thì -> chị
+2   shop -> suốt
+2   sao -> xong
+2   này -> lại
+2   là -> nó
+2   không -> có
+2   hông -> không
+2   hôm -> không
+2   hoà -> hòa
+2   gì -> vì
+2   em -> bên
+2   cám -> cảm
+2   chị -> trị
+2   chị -> chỉ
+2   chưa -> rồi
+2   biết -> bưu
+2   anh -> em
+1   ừ -> rồi
+1   ở -> địa
+1   ở -> đấy
+1   ở -> này
+1   ở -> mà
+1   ở -> là
+1   ở -> hỏi
+1   ở -> hiểu
+1   ở -> gì
+1   ở -> của
+1   ở -> có
+1   ờ -> a
+1   ổ -> à
+1   ấy -> đúng
+1   ấy -> à
+1   ấy -> máy
+1   ấy -> lúc
+1   ấy -> hình
+1   ảnh -> này
+1   ạ -> đã
+1   ạ -> gọi
+1   ạ -> dạ
+1   ơn -> về
+1   ơ -> ở
+1   đức -> tức
+1   đức -> tiền
+1   đức -> thị
+1   đứa -> đường
+1   đồng -> nó
+1   đống -> đóng
+1   đọc -> nó
+1   đọc -> là
+1   địa -> lý
+1   để -> thôi
+1   để -> thì
+1   đến -> bên
+1   đặt -> được
+1   đặng -> xem
+1   đẩy -> để
+1   đấy -> để
+1   đấy -> đâu
+1   đấy -> điêu
+1   đấy -> đi
+1   đấy -> à
+1   đấy -> lấy
+1   đạo -> đào
+1   được -> ở
+1   được -> đúng
+1   được -> đâu
+1   được -> rồi
+1   đường -> đưang
+1   đưa -> bưu
+1   đơn -> đâu
+1   đơn -> ô
+1   đơn -> thôi
+1   đúng -> số
+1   đúng -> của
+1   đó -> nó
+1   đã -> đúng
+1   đây -> xong
+1   đáng -> báo
+1   đuôi -> vui
+1   điện -> đơn
+1   điện -> điệnk
+1   điện -> tòa
+1   điện -> thiện
+1   điện -> biên
+1   điển -> tiền
+1   đi -> ý
+1   đi -> y
+1   đi -> như
+1   đi -> gì
+1   đi -> bưu
+1   đang -> đã
+1   đang -> ra
+1   đang -> phảiác
+1   đan -> an
+1   ý -> ét
+1   ý -> r
+1   ý -> nhưng
+1   ý -> gì
+1   ý -> cho
+1   ô -> kem
+1   á -> năm
+1   á -> che
+1   à -> ở
+1   à -> vầng
+1   à -> nhận
+1   à -> mới
+1   à -> hả
+1   yến -> đúng
+1   yêu -> bưu
+1   xê -> tê
+1   xã -> trợ
+1   xã -> anh
+1   xuân -> phân
+1   xong -> sao
+1   xong -> hộ
+1   xin -> vầng
+1   xin -> mười
+1   xem -> trên
+1   xem -> hỏi
+1   xem -> cho
+1   xe -> tra
+1   xa -> ta
+1   vợ -> bảo
+1   với -> ở
+1   với -> ý
+1   với -> và
+1   với -> của
+1   với -> bưu
+1   vỏ -> bỏ
+1   vệ -> về
+1   vệ -> không
+1   về -> phải
+1   vậy -> về
+1   vậy -> chị
+1   vầng -> chị
+1   văn -> vẫn
+1   văn -> vâng
+1   văn -> mêu
+1   văn -> hoành
+1   võ -> gọi
+1   vì -> thì
+1   vì -> cái
+1   vì -> bên
+1   vâng -> ứng
+1   vâng -> vẫn
+1   vào -> ở
+1   vào -> và
+1   vào -> dạ
+1   vào -> bạn
+1   và -> của
+1   viết -> biết
+1   vietjet -> ghép
+1   vietcombank -> việtco
+1   vib -> vp
+1   vang -> vâng
+1   từ -> thì
+1   từ -> oát
+1   tế -> cái
+1   tập -> biên
+1   tại -> việc
+1   tại -> lại
+1   tưởng -> thử
+1   tý -> đi
+1   tôi -> doi
+1   tôi -> bật
+1   tên -> tênh
+1   tân -> tin
+1   tám -> trăm
+1   tá -> ta
+1   tá -> hôm
+1   tàu -> sau
+1   tuần -> tên
+1   tuyến -> ơn
+1   tuyến -> từ
+1   tuyên -> bảo
+1   trừ -> chừng
+1   trọng -> cục
+1   trịnh -> chị
+1   trẻ -> hiệu
+1   trần -> sân
+1   trả -> giả
+1   trường -> trên
+1   trình -> chỉnh
+1   tiếp -> biết
+1   tiến -> đến
+1   thực -> từ
+1   thịnh -> thị
+1   thể -> đưa
+1   thể -> thẻ
+1   thế -> đây
+1   thế -> về
+1   thế -> vầng
+1   thế -> tên
+1   thế -> thấy
+1   thế -> là
+1   thế -> bây
+1   thẻ -> thế
+1   thẳng -> học
+1   thất -> sp
+1   thấm -> thắm
+1   thạch -> hải
+1   thường -> thì
+1   thưa -> thương
+1   thơm -> thôn
+1   thông -> không
+1   thôi -> thế
+1   thí -> thế
+1   thì -> được
+1   thì -> xem
+1   thì -> vì
+1   thì -> từ
+1   thì -> rồi
+1   thì -> qua
+1   thì -> nên
+1   thì -> lấy
+1   thì -> gì
+1   thì -> dịch
+1   thì -> bà
+1   thêm -> nhưng
+1   tháng -> là
+1   thái -> hải
+1   thành -> thanh
+1   thuộc -> tụ
+1   thoại -> hòa
+1   thoại -> hàng
+1   thiếu -> chỉ
+1   thi -> shom
+1   thay -> thấy
+1   thanh -> thấy
+1   thanh -> anh
+1   tay -> tai
+1   tao -> ta
+1   tam -> tầm
+1   sửa -> sự
+1   sử -> chị
+1   số -> tú
+1   số -> thuốc
+1   số -> phường
+1   số -> có
+1   sẽ -> thầy
+1   sẽ -> phải
+1   sót -> xót
+1   shop -> trả<unk
+1   shop -> số
+1   shop -> shock
+1   ship -> bật
+1   sen -> xem
+1   sava -> sau
+1   sau -> sao
+1   sao -> xuống
+1   sao -> hai
+1   sao -> bạn
+1   rồi -> để
+1   rồi -> đấy
+1   rồi -> được
+1   rồi -> ý
+1   rồi -> vầng
+1   rồi -> thôi
+1   rồi -> thì
+1   rồi -> giờ
+1   rồi -> dạ
+1   rất -> gửi
+1   ra -> thủy
+1   ra -> bưu
+1   quốc -> phúc
+1   quốc -> cấp
+1   quầy -> quê
+1   quả -> quản
+1   quạt -> có
+1   quán -> quá
+1   quá -> có
+1   qua -> quang
+1   pê -> xe
+1   pin -> viên
+1   phận -> nữa
+1   phải -> về
+1   phải -> này
+1   phải -> bưu
+1   phạm -> chả
+1   phạm -> bin
+1   phượng -> phường
+1   phú -> khu
+1   phòng -> không
+1   phí -> chi
+1   phát -> nãy
+1   phát -> khăn
+1   phong -> không
+1   phiếu -> trường
+1   phan -> văn
+1   ok -> điện
+1   ok -> ô
+1   ok -> số
+1   ok -> nghe
+1   nữa -> hả
+1   nội -> thạ
+1   nổ -> đổi
+1   nếu -> đúng
+1   nếu -> số
+1   nếu -> nó
+1   nếu -> dưới
+1   nó -> đơn
+1   nó -> đúng
+1   nó -> đã
+1   nó -> thấy
+1   nó -> nào
+1   nó -> báo
+1   này -> ấy
+1   này -> kê
+1   này -> cái
+1   nào -> là
+1   ninh -> nông
+1   những -> nhớ
+1   nhở -> nhờ
+1   nhớ -> nhở
+1   nhể -> à
+1   nhận -> điện
+1   nhận -> nhà
+1   nhầm -> trăm
+1   nhầm -> năm
+1   nhưng -> thế
+1   nhưng -> thì
+1   như -> rồi
+1   như -> hả
+1   như -> bưu
+1   nhé -> nhá
+1   nhân -> lê
+1   nhá -> rồi
+1   nhá -> nhờ
+1   nhá -> nhớ
+1   nhá -> nha
+1   nhàn -> với
+1   nhà -> tiến
+1   nhà -> nha
+1   nhà -> anh
+1   nhuế -> nhuyễu
+1   nhu -> nhuy
+1   nhu -> nhung
+1   nha -> rồi
+1   nha -> nhá
+1   người -> với
+1   ngày -> này
+1   ngày -> nghìn
+1   ngày -> em
+1   nguyệt -> nguyễn
+1   nguyễn -> biển
+1   nguyên -> nguyễn
+1   ngoài -> ừ
+1   nghỉ -> nha
+1   nghỉ -> gửi
+1   nghĩa -> thế
+1   nghĩa -> miễn
+1   ngay -> anh
+1   nay -> hay
+1   nay -> hai
+1   nam -> lam
+1   mỹ -> vĩnh
+1   mỹ -> bị
+1   mới -> mình
+1   mới -> minh
+1   mới -> bên
+1   mấy -> mười
+1   mấy -> minh
+1   mất -> mắc
+1   mất -> lắm
+1   mất -> có
+1   mười -> bốn
+1   mươi -> mười
+1   mùng -> một
+1   mùng -> mua
+1   mình -> ấn
+1   mình -> với
+1   mình -> một
+1   mình -> bình
+1   mày -> nói
+1   màu -> mà
+1   mà -> và
+1   mà -> viết
+1   minh -> mình
+1   mai -> thoại
+1   mai -> mà
+1   mai -> maild
+1   ma -> mai
+1   lịch -> với
+1   lần -> là
+1   lấy -> ở
+1   lấy -> ạ
+1   lấy -> đấy
+1   lấy -> đúng
+1   lấy -> này
+1   lấy -> ngày
+1   lấy -> lại
+1   lại -> đấy
+1   lại -> này
+1   lại -> người
+1   lại -> ngày
+1   lại -> gọi
+1   lại -> gì
+1   lạ -> là
+1   lượng -> phượng
+1   lương -> luôn
+1   lưu -> luôn
+1   lưu -> linh
+1   lưu -> giunk
+1   lý -> mình
+1   lô -> đi
+1   lô -> rồi
+1   lô -> hai
+1   lên -> đơn
+1   lê -> lên
+1   lâm -> là
+1   làm -> rằng
+1   làm -> nào
+1   là -> ạ
+1   là -> vào
+1   là -> thẻ
+1   là -> rồi
+1   là -> này
+1   là -> la
+1   là -> hoàn
+1   là -> giờ
+1   luân -> luôn
+1   linh -> lên
+1   linh -> anh
+1   kể -> phải
+1   ký -> tình
+1   kính -> được
+1   kí -> tiếp
+1   kim -> khi
+1   kia -> đưa
+1   không -> ạ
+1   không -> à
+1   không -> xong
+1   không -> số
+1   không -> sáu
+1   không -> qua
+1   không -> lưu
+1   không -> lên
+1   không -> lái
+1   không -> hông
+1   không -> còn
+1   khâu -> kho
+1   khách -> khanh
+1   khách -> em
+1   khác -> phát
+1   khoảng -> gửi
+1   khi -> thì
+1   kem -> các
+1   hủy -> ở
+1   hủy -> gì
+1   hủy -> dạ
+1   hợp -> tục
+1   hộ -> vầng
+1   hộ -> của
+1   họp -> đi
+1   học -> đơn
+1   học -> nhà
+1   họ -> nọ
+1   hẹn -> lại
+1   hải -> gì
+1   hả -> ở
+1   hưng -> hương
+1   hơn -> bốn
+1   hôm -> ông
+1   hôm -> thu
+1   hòa -> ok
+1   hành -> ừ
+1   hàng -> màu
+1   hàng -> hằng
+1   huỷ -> hủy
+1   hoàn -> vào
+1   hoàn -> hỏi
+1   hoàn -> hàng
+1   hoàn -> hoãn
+1   hoàn -> hoàng
+1   hiệp -> nghiệp
+1   hiểu -> nhở
+1   hiểm -> hỗ
+1   hay -> hơi
+1   hay -> hai
+1   hai -> địa
+1   hai -> cái
+1   gửi -> rồi
+1   gửi -> cho
+1   gọi -> ngoại
+1   gọi -> coiforýp
+1   gỉa -> chỗ
+1   gấp -> gốc
+1   gạo -> khám
+1   gì -> dạ
+1   gì -> chị
+1   giữ -> thế
+1   giữ -> hoài
+1   giời -> rồi
+1   giờ -> ạ
+1   giờ -> sĩ
+1   giờ -> ra
+1   giờ -> giỏ
+1   giấy -> thanh
+1   giả -> thiện
+1   giả -> dám
+1   giúp -> cho
+1   giáp -> dát
+1   giá -> tá
+1   giày -> giê
+1   giao -> kho
+1   giang -> dạ
+1   gia -> ba
+1   em -> ừm
+1   em -> thẻ
+1   em -> sợ
+1   em -> sh
+1   em -> nên
+1   em -> muốn
+1   em -> cảm
+1   e -> ắc
+1   dạ -> vầng
+1   dạ -> vâng
+1   dạ -> rồi
+1   dạ -> nói
+1   dạ -> như
+1   dạ -> khách
+1   dạ -> dạo
+1   dạ -> có
+1   dạ -> bạn
+1   dương -> dinh
+1   dùm -> giùm
+1   dù -> dùng
+1   cửa -> ký
+1   cứ -> phú
+1   của -> hoặc
+1   cổng -> vầng
+1   cổng -> cầu
+1   cậu -> có
+1   cầu -> phục
+1   cầu -> cấu
+1   cầu -> cuộc
+1   cầm -> tổng
+1   cầm -> có
+1   cấn -> gần
+1   cảm -> vâng
+1   cảm -> lỗi
+1   cảm -> cắm
+1   cả -> hả
+1   cả -> có
+1   cạnh -> các
+1   cước -> xong
+1   cư -> không
+1   cơ -> cư
+1   cũ -> cứ
+1   căn -> sơn
+1   cúp -> cước
+1   cúp -> cúc
+1   cô -> hôm
+1   có -> thế
+1   có -> cứ
+1   có -> bởi
+1   còn -> con
+1   cây -> đai
+1   cám -> em
+1   cái -> về
+1   cái -> số
+1   cái -> rồi
+1   cái -> nói
+1   cái -> chị
+1   các -> cách
+1   cuối -> cố
+1   cuối -> bốn
+1   cs -> vê
+1   con -> qua
+1   con -> cô
+1   code -> cố
+1   chửi -> thử
+1   chừ -> kêu
+1   chứ -> ý
+1   chứ -> sẽ
+1   chứ -> rồi
+1   chủ -> chính
+1   chờ -> trơn
+1   chỗ -> đồng
+1   chỗ -> có
+1   chỗ -> chợ
+1   chỗ -> chưa
+1   chỗ -> cháu
+1   chị -> trợ
+1   chị -> thị
+1   chị -> sao
+1   chị -> giả
+1   chị -> báo
+1   chắc -> ở
+1   chắc -> cháu
+1   chật -> chắt
+1   chả -> thế
+1   chương -> chứ
+1   chưa -> được
+1   chúng -> cho
+1   chú -> trú
+1   chín -> chỉ
+1   chín -> chính
+1   chào -> thưa
+1   chuẩn -> chưa
+1   chuyện -> chuyển
+1   chuyển -> thẻ
+1   chuyển -> sửa
+1   chuyển -> hoàn
+1   chuyển -> chị
+1   chung -> cũng
+1   chu -> là
+1   cho -> trời
+1   cho -> ta
+1   cho -> sẽ
+1   cho -> giúp
+1   chiều -> kìa
+1   chiều -> gì
+1   bọn -> để
+1   bọn -> của
+1   bọn -> anh
+1   bị -> thấy
+1   bận -> bảo
+1   bẩy -> để
+1   bảy -> đấy
+1   bảo -> áo
+1   bảo -> sau
+1   bảo -> mà
+1   bảo -> hỏi
+1   bảo -> bảy
+1   bảo -> báo
+1   bản -> bạn
+1   bạn -> em
+1   bạn -> bênh
+1   bạch -> đấy
+1   bạch -> bật
+1   bưu -> ở
+1   bưu -> đâu
+1   bưu -> xá
+1   bưu -> không
+1   bưu -> em
+1   bùi -> pháting
+1   bên -> được
+1   bên -> đi
+1   bên -> trên
+1   bên -> là
+1   béo -> báo
+1   bãi -> máy
+1   bây -> mình
+1   báo -> bảo
+1   bà -> mã
+1   biết -> nghe
+1   biết -> cái
+1   bao -> bác
+1   ba -> bao
+1   app -> appe
+1   anh -> xem
+1   anh -> vầng
+1   anh -> nguyễn
+1   anh -> nam
+1   anh -> hay
+1   anh -> gọi
+1   anh -> cái
+1   an -> văn
+1   alo -> lô
+1   ai -> thế
+1   ai -> lô
+1   ai -> hai
+1   ai -> dạ
+1   a -> mẹ
+1   a -> mẫu
+1   a -> lộ
+1   a -> hai
+1   a -> ba
+
+DELETIONS: count ref
+38   em
+25   rồi
+21   ạ
+17   chị
+17   anh
+16   dạ
+15   là
+15   không
+14   à
+13   có
+12   vầng
+12   vâng
+11   ở
+11   a
+10   ơi
+10   thì
+10   lô
+9   ý
+9   mình
+8   nhá
+8   kê
+7   ấy
+7   để
+7   được
+7   thế
+7   cho
+6   ô
+6   mà
+6   lại
+6   hay
+6   cái
+6   bên
+6   ba
+5   đi
+5   phải
+5   một
+5   của
+4   ừ
+4   ơn
+4   đến
+4   đúng
+4   đây
+4   điện
+4   thôi
+4   nên
+4   hà
+4   bưu
+3   ờ
+3   đấy
+3   với
+3   trong
+3   thông
+3   sáu
+3   nội
+3   này
+3   nào
+3   nhưng
+3   ngày
+3   lưu
+3   hàng
+3   cả
+3   chưa
+3   bảo
+3   ai
+2   đưa
+2   đâu
+2   y
+2   về
+2   vậy
+2   và
+2   tôi
+2   tám
+2   trung
+2   tao
+2   phát
+2   phong
+2   ok
+2   nữa
+2   nó
+2   nhở
+2   như
+2   người
+2   mai
+2   lỡ
+2   lấy
+2   làm
+2   hộ
+2   họ
+2   hướng
+2   hôm
+2   hoàn
+2   gửi
+2   gọi
+2   giờ
+2   giúp
+2   ghi
+2   dưới
+2   cảm
+2   cơ
+2   chỗ
+2   chuyển
+2   bảy
+2   bây
+1   ới
+1   ấp
+1   ơ
+1   đức
+1   đợi
+1   đồng
+1   đọc
+1   đề
+1   đặc
+1   đạc
+1   đường
+1   đã
+1   đa
+1   ông
+1   ôi
+1   ò
+1   á
+1   zalo
+1   xử
+1   xê
+1   xiển
+1   xem
+1   xe
+1   vừa
+1   vợ
+1   vẽ
+1   vật
+1   vận
+1   văn
+1   vì
+1   vê
+1   vào
+1   việc
+1   từ
+1   tờ
+1   tổng
+1   tý
+1   tên
+1   tá
+1   tài
+1   trực
+1   trả
+1   trường
+1   trì
+1   trang
+1   toét
+1   to
+1   tiếp
+1   thử
+1   thọ
+1   thấy
+1   thư
+1   thơm
+1   thôn
+1   thêm
+1   thuộc
+1   thuốc
+1   thoại
+1   ta
+1   số
+1   sắc
+1   sậy
+1   sinh
+1   sava
+1   sao
+1   sam
+1   quạt
+1   phụng
+1   nửa
+1   nặng
+1   nơi
+1   năm
+1   nói
+1   nhỡ
+1   nhớ
+1   nhỉ
+1   nhắn
+1   nhận
+1   nhé
+1   nhà
+1   ngắn
+1   ngân
+1   nguyện
+1   nguyễn
+1   nguyên
+1   nghị
+1   nghe
+1   nay
+1   mỹ
+1   mén
+1   mãi
+1   mua
+1   minh
+1   lắm
+1   lý
+1   lên
+1   láo
+1   liệu
+1   lao
+1   la
+1   ký
+1   kính
+1   kém
+1   kiệt
+1   kia
+1   khoản
+1   im
+1   i
+1   hủy
+1   hội
+1   hỏi
+1   học
+1   hùng
+1   hành
+1   hoặc
+1   hoa
+1   hiệu
+1   hiền
+1   hai
+1   gớm
+1   gì
+1   giả
+1   dụng
+1   dùng
+1   dài
+1   cứ
+1   cục
+1   cũng
+1   cô
+1   cám
+1   con
+1   chắc
+1   chính
+1   chín
+1   chào
+1   chuẩn
+1   chi
+1   bực
+1   bộ
+1   bọn
+1   bị
+1   bơm
+1   béo
+1   bãi
+1   bán
+1   biết
+1   bao
+1   ao
+1   an
+1   
+
+INSERTIONS: count hyp
+8   lô
+6   rồi
+4   thì
+3   ok
+3   chị
+3   cho
+3   bên
+2   ừ
+2   được
+2   ý
+2   thế
+2   ra
+2   phải
+2   mình
+2   lại
+2   hàng
+2   có
+2   cái
+2   anh
+1   ở
+1   ờ
+1   ạ
+1   đấy
+1   đơn
+1   đúng
+1   đâu
+1   điện
+1   ép
+1   vợ
+1   vào
+1   tớ
+1   tơ
+1   thành
+1   sao
+1   qua
+1   phố
+1   nó
+1   này
+1   nào
+1   nhở
+1   nhận
+1   mươi
+1   mét
+1   mà
+1   mank
+1   là
+1   kê
+1   khu
+1   hết
+1   hạ
+1   hà
+1   hoàng
+1   gọi
+1   gì
+1   giờ
+1   giá
+1   ghi
+1   em
+1   của
+1   công
+1   chỉ
+1   chính
+1   chào
+1   bây
+1   ba
+1   a
+
+PER-WORD STATS: word  corr tot_errs count_in_ref count_in_hyp
+em   226 59 277 234
+rồi   70 55 104 91
+thì   65 41 90 81
+chị   141 41 170 153
+không   172 38 200 182
+anh   103 38 129 115
+là   99 36 124 110
+ạ   105 35 133 112
+vầng   36 35 52 55
+dạ   24 34 49 33
+ở   59 32 80 70
+vâng   11 32 36 18
+đấy   38 31 55 52
+à   10 30 31 19
+có   122 30 138 136
+thế   34 29 50 47
+a   53 27 69 64
+ấy   12 24 29 19
+ý   34 23 48 43
+lô   50 23 63 60
+cho   81 22 95 89
+bưu   65 20 74 76
+được   45 19 56 53
+mình   71 19 84 77
+lại   41 19 53 48
+cái   74 19 85 82
+bên   44 18 54 52
+đi   24 17 36 29
+nhá   49 17 61 54
+này   32 16 40 40
+nó   14 15 22 21
+để   33 14 42 38
+đúng   30 14 36 38
+lấy   9 14 21 11
+gì   32 14 37 41
+phải   32 13 40 37
+mà   48 13 56 53
+của   50 13 56 57
+bảo   33 13 42 37
+đến   20 12 28 24
+đây   11 12 18 16
+điện   51 12 60 54
+với   15 12 23 19
+ok   7 12 13 13
+ô   0 11 9 2
+xem   12 11 16 19
+số   27 11 32 33
+ơi   35 10 45 35
+đơn   48 10 51 55
+sao   6 10 12 10
+kê   1 10 9 3
+hay   6 10 14 8
+ba   24 10 31 27
+alo   0 10 10 0
+ừ   0 9 5 4
+về   18 9 21 24
+vì   15 9 21 18
+ra   14 9 19 18
+năm   23 9 27 28
+hàng   56 9 61 60
+hoàn   7 9 14 9
+hai   44 9 47 50
+gọi   39 9 43 44
+giờ   32 9 38 35
+vào   6 8 11 9
+thôi   8 8 13 11
+ngày   18 8 24 20
+hôm   21 8 27 23
+cảm   9 8 14 12
+chỗ   6 8 13 7
+chưa   14 8 20 16
+bảy   17 8 24 18
+đâu   21 7 23 26
+xong   4 7 6 9
+văn   5 7 10 7
+thanh   9 7 14 11
+nào   17 7 21 20
+nhớ   4 7 9 6
+nhưng   11 7 16 13
+như   7 7 12 9
+một   53 7 58 55
+lưu   10 7 16 11
+gửi   21 7 25 24
+chuyển   19 7 25 20
+biết   8 7 13 10
+ai   4 7 11 4
+ơn   13 6 18 14
+và   2 6 5 5
+từ   14 6 17 17
+tên   12 6 16 14
+thấy   14 6 15 19
+nên   6 6 10 8
+nhở   16 6 19 19
+nhà   22 6 26 24
+mai   22 6 27 23
+lăm   2 6 5 5
+bạn   39 6 41 43
+báo   12 6 13 17
+ờ   0 5 4 1
+đưa   0 5 3 2
+đã   7 5 9 10
+thẻ   14 5 15 18
+ta   16 5 17 20
+shop   3 5 8 3
+qua   10 5 11 14
+phát   29 5 33 30
+nhận   34 5 37 36
+nha   0 5 2 3
+nguyễn   12 5 14 15
+lên   2 5 4 5
+hủy   2 5 6 3
+hộ   4 5 8 5
+hỏi   3 5 4 7
+hả   7 5 8 11
+hà   19 5 23 20
+giả   0 5 3 2
+cả   2 5 7 2
+chỉ   23 5 23 28
+bẩy   2 5 3 6
+bây   12 5 15 14
+đức   7 4 11 7
+xã   4 4 8 4
+vậy   2 4 6 2
+tôi   6 4 10 6
+tá   20 4 23 21
+thông   3 4 7 3
+thoại   9 4 12 10
+sẽ   5 4 7 7
+sáu   24 4 27 25
+sau   4 4 5 7
+nữa   7 4 10 8
+nội   17 4 21 17
+nếu   9 4 13 9
+nói   1 4 2 4
+người   26 4 29 27
+mới   10 4 13 11
+mười   15 4 16 18
+minh   2 4 4 4
+làm   10 4 14 10
+học   3 4 6 4
+hòa   3 4 4 6
+giúp   19 4 22 20
+giao   10 4 11 13
+cứ   8 4 10 10
+cầu   6 4 9 7
+cám   1 4 5 1
+con   0 4 3 1
+chứ   4 4 7 5
+chính   5 4 6 8
+bọn   5 4 9 5
+đồng   4 3 6 5
+đọc   5 3 8 5
+địa   24 3 25 26
+đường   5 3 7 6
+đang   12 3 15 12
+á   3 3 6 3
+y   8 3 10 9
+xe   0 3 2 1
+xanh   0 3 0 3
+vợ   0 3 2 1
+tám   23 3 26 23
+trường   3 3 5 4
+trên   10 3 10 13
+trong   5 3 8 5
+tiếp   8 3 10 9
+thử   1 3 2 3
+thị   10 3 10 13
+tao   0 3 3 0
+phong   0 3 3 0
+nghe   10 3 11 12
+nay   17 3 20 17
+mỹ   3 3 6 3
+mất   3 3 6 3
+lý   3 3 5 4
+luôn   14 3 14 17
+linh   2 3 4 3
+ký   1 3 3 2
+khách   23 3 25 24
+họ   4 3 7 4
+hải   1 3 2 3
+hông   0 3 2 1
+ghi   4 3 6 5
+dưới   2 3 4 3
+cơ   2 3 5 2
+cô   1 3 3 2
+các   7 3 8 9
+chắc   4 3 7 4
+chín   30 3 33 30
+chào   18 3 20 19
+bốn   22 3 22 25
+bị   2 3 4 3
+bật   1 3 1 4
+bao   6 3 8 7
+an   1 3 3 2
+ơ   0 2 2 0
+ông   1 2 2 2
+xê   2 2 4 2
+xin   4 2 6 4
+vệ   1 2 3 1
+vẫn   5 2 5 7
+vũ   2 2 4 2
+vê   1 2 2 2
+việc   1 2 2 2
+viết   1 2 2 2
+v   0 2 0 2
+tổng   0 2 1 1
+tại   10 2 12 10
+tý   0 2 2 0
+tuyến   0 2 2 0
+trợ   4 2 4 6
+trị   1 2 1 3
+trả   2 2 4 2
+trăm   10 2 10 12
+trung   5 2 7 5
+tiền   6 2 6 8
+tiến   0 2 1 1
+thể   2 2 4 2
+thưa   0 2 1 1
+thơm   0 2 2 0
+thôn   1 2 2 2
+thêm   0 2 2 0
+thành   3 2 4 4
+thuộc   1 2 3 1
+thuốc   0 2 1 1
+thiện   0 2 0 2
+sửa   2 2 3 3
+suốt   1 2 1 3
+sava   0 2 2 0
+quốc   1 2 3 1
+quạt   0 2 2 0
+quá   3 2 4 4
+phạm   1 2 3 1
+phượng   1 2 2 2
+phường   3 2 3 5
+phú   2 2 3 3
+nhờ   2 2 2 4
+nhầm   2 2 4 2
+nhé   0 2 2 0
+nhu   2 2 4 2
+nguyên   1 2 3 1
+nghỉ   3 2 5 3
+nghĩa   1 2 3 1
+nam   0 2 1 1
+mấy   7 2 9 7
+mươi   14 2 15 15
+mùng   2 2 4 2
+máy   10 2 10 12
+màu   0 2 1 1
+mua   0 2 1 1
+lỡ   0 2 2 0
+lắm   2 2 3 3
+lê   5 2 6 6
+la   0 2 1 1
+kính   0 2 2 0
+kia   4 2 6 4
+khu   3 2 3 5
+kho   2 2 2 4
+khi   1 2 2 2
+kem   0 2 1 1
+hướng   0 2 2 0
+hành   2 2 4 2
+hoặc   2 2 3 3
+hoàng   1 2 1 3
+hoà   0 2 2 0
+hiệu   3 2 4 4
+hiểu   3 2 4 4
+giữ   0 2 2 0
+giá   2 2 3 3
+dùng   1 2 2 2
+cục   7 2 8 8
+cổng   0 2 2 0
+cố   1 2 1 3
+cầm   1 2 3 1
+cước   1 2 2 2
+cư   1 2 2 2
+cũng   8 2 9 9
+cúp   0 2 2 0
+còn   5 2 6 6
+cuối   1 2 3 1
+chả   0 2 1 1
+cháu   1 2 1 3
+chuẩn   0 2 2 0
+chiều   10 2 12 10
+chi   1 2 2 2
+bạch   0 2 2 0
+béo   0 2 2 0
+bãi   0 2 2 0
+bà   2 2 3 3
+biên   0 2 0 2
+ừm   0 1 0 1
+ứng   0 1 0 1
+ới   0 1 1 0
+ổ   0 1 1 0
+ắc   0 1 0 1
+ấp   0 1 1 0
+ấn   0 1 0 1
+ảnh   0 1 1 0
+đứa   0 1 1 0
+đợi   6 1 7 6
+đổi   2 1 2 3
+đống   0 1 1 0
+đề   2 1 3 2
+đặt   7 1 8 7
+đặng   1 1 2 1
+đặc   0 1 1 0
+đẩy   1 1 2 1
+đạo   0 1 1 0
+đạc   0 1 1 0
+đưang   0 1 0 1
+đóng   12 1 12 13
+đó   3 1 4 3
+đáng   0 1 1 0
+đào   0 1 0 1
+đuôi   0 1 1 0
+điệnk   0 1 0 1
+điển   0 1 1 0
+điêu   0 1 0 1
+đan   0 1 1 0
+đai   0 1 0 1
+đa   1 1 2 1
+ôi   0 1 1 0
+ò   0 1 1 0
+ét   0 1 0 1
+ép   0 1 0 1
+áo   1 1 1 2
+zalo   1 1 2 1
+yến   1 1 2 1
+yêu   3 1 4 3
+xử   3 1 4 3
+xót   0 1 0 1
+xá   0 1 0 1
+xuống   0 1 0 1
+xuân   2 1 3 2
+xiển   0 1 1 0
+xa   0 1 1 0
+vừa   5 1 6 5
+vỏ   0 1 1 0
+vẽ   0 1 1 0
+vật   1 1 2 1
+vận   1 1 2 1
+vĩnh   0 1 0 1
+võ   0 1 1 0
+vui   0 1 0 1
+vp   0 1 0 1
+việtco   0 1 0 1
+viên   1 1 1 2
+vietjet   0 1 1 0
+vietcombank   0 1 1 0
+vib   0 1 1 0
+vang   1 1 2 1
+tức   3 1 3 4
+tục   0 1 0 1
+tụ   0 1 0 1
+tờ   0 1 1 0
+tớ   1 1 1 2
+tế   8 1 9 8
+tập   1 1 2 1
+tầm   5 1 5 6
+tưởng   1 1 2 1
+tơ   0 1 0 1
+tú   1 1 1 2
+tòa   1 1 1 2
+tình   0 1 0 1
+tênh   0 1 0 1
+tê   0 1 0 1
+tân   1 1 2 1
+tàu   0 1 1 0
+tài   0 1 1 0
+tuần   5 1 6 5
+tuyên   0 1 1 0
+trực   1 1 2 1
+trừ   0 1 1 0
+trời   0 1 0 1
+trọng   1 1 2 1
+trịnh   0 1 1 0
+trẻ   0 1 1 0
+trần   1 1 2 1
+trả<unk   0 1 0 1
+trơn   0 1 0 1
+trú   0 1 0 1
+trình   4 1 5 4
+trì   1 1 2 1
+trang   3 1 4 3
+tra   6 1 6 7
+toét   0 1 1 0
+to   0 1 1 0
+tin   6 1 6 7
+thực   3 1 4 3
+thủy   0 1 0 1
+thọ   1 1 2 1
+thịnh   0 1 1 0
+thẳng   0 1 1 0
+thắm   0 1 0 1
+thầy   0 1 0 1
+thất   0 1 1 0
+thấm   0 1 1 0
+thạch   2 1 3 2
+thạ   0 1 0 1
+thường   2 1 3 2
+thương   0 1 0 1
+thư   8 1 9 8
+thí   0 1 1 0
+tháng   7 1 8 7
+thái   2 1 3 2
+thu   6 1 6 7
+thiếu   0 1 1 0
+thi   0 1 1 0
+thay   1 1 2 1
+tay   1 1 2 1
+tam   1 1 2 1
+tai   0 1 0 1
+sự   1 1 1 2
+sử   4 1 5 4
+sợ   2 1 2 3
+sắc   0 1 1 0
+sậy   0 1 1 0
+sơn   2 1 2 3
+sĩ   0 1 0 1
+sót   0 1 1 0
+sân   0 1 0 1
+sp   0 1 0 1
+sinh   2 1 3 2
+shom   0 1 0 1
+shock   0 1 0 1
+ship   1 1 2 1
+sh   0 1 0 1
+sen   0 1 1 0
+sam   0 1 1 0
+rằng   0 1 0 1
+rất   2 1 3 2
+r   0 1 0 1
+quầy   0 1 1 0
+quản   0 1 0 1
+quả   1 1 2 1
+quê   1 1 1 2
+quán   0 1 1 0
+quang   3 1 3 4
+pê   0 1 1 0
+pin   0 1 1 0
+phụng   0 1 1 0
+phục   0 1 0 1
+phố   3 1 3 4
+phận   0 1 1 0
+phảiác   0 1 0 1
+phúc   0 1 0 1
+phòng   3 1 4 3
+phí   4 1 5 4
+phân   0 1 0 1
+pháting   0 1 0 1
+phiếu   1 1 2 1
+phan   1 1 2 1
+oát   0 1 0 1
+nửa   0 1 1 0
+nổ   0 1 1 0
+nọ   2 1 2 3
+nặng   0 1 1 0
+nơi   0 1 1 0
+nông   0 1 0 1
+nãy   1 1 1 2
+ninh   0 1 1 0
+những   0 1 1 0
+nhỡ   0 1 1 0
+nhỉ   1 1 2 1
+nhể   0 1 1 0
+nhắn   5 1 6 5
+nhân   4 1 5 4
+nhàn   0 1 1 0
+nhuế   0 1 1 0
+nhuyễu   0 1 0 1
+nhuy   0 1 0 1
+nhung   0 1 0 1
+ngắn   0 1 1 0
+ngân   4 1 5 4
+nguyệt   0 1 1 0
+nguyện   0 1 1 0
+ngoại   0 1 0 1
+ngoài   5 1 6 5
+nghị   0 1 1 0
+nghìn   9 1 9 10
+nghiệp   0 1 0 1
+ngay   2 1 3 2
+mẹ   1 1 1 2
+mắc   0 1 0 1
+mẫu   0 1 0 1
+mêu   0 1 0 1
+mét   0 1 0 1
+mén   0 1 1 0
+mãi   0 1 1 0
+mã   9 1 9 10
+mày   0 1 1 0
+muốn   0 1 0 1
+miễn   0 1 0 1
+mank   0 1 0 1
+maild   0 1 0 1
+ma   0 1 1 0
+lộ   0 1 0 1
+lỗi   1 1 1 2
+lịch   0 1 1 0
+lần   0 1 1 0
+lạ   0 1 1 0
+lượng   1 1 2 1
+lương   1 1 2 1
+lúc   5 1 5 6
+lâm   1 1 2 1
+láo   0 1 1 0
+lái   0 1 0 1
+luân   0 1 1 0
+liệu   1 1 2 1
+lao   0 1 1 0
+lam   0 1 0 1
+kể   1 1 2 1
+kí   0 1 1 0
+kìa   0 1 0 1
+kêu   1 1 1 2
+kém   1 1 2 1
+kiệt   0 1 1 0
+kim   1 1 2 1
+khăn   0 1 0 1
+khâu   0 1 1 0
+khám   0 1 0 1
+khác   3 1 4 3
+khoảng   2 1 3 2
+khoản   3 1 4 3
+khanh   1 1 1 2
+im   0 1 1 0
+i   0 1 1 0
+hợp   4 1 5 4
+hội   0 1 1 0
+hỗ   4 1 4 5
+họp   0 1 1 0
+hết   4 1 4 5
+hẹn   1 1 2 1
+hằng   0 1 0 1
+hạ   0 1 0 1
+hương   0 1 0 1
+hưng   0 1 1 0
+hơn   2 1 3 2
+hơi   0 1 0 1
+hùng   0 1 1 0
+hình   0 1 0 1
+huỷ   0 1 1 0
+hoãn   0 1 0 1
+hoành   0 1 0 1
+hoài   3 1 3 4
+hoa   2 1 3 2
+hiệp   0 1 1 0
+hiểm   12 1 13 12
+hiền   2 1 3 2
+gớm   0 1 1 0
+gốc   2 1 2 3
+gỉa   0 1 1 0
+gần   1 1 1 2
+gấp   0 1 1 0
+gạo   0 1 1 0
+giời   0 1 1 0
+giỏ   0 1 0 1
+giấy   3 1 4 3
+giùm   1 1 1 2
+giê   0 1 0 1
+giáp   0 1 1 0
+giày   0 1 1 0
+giunk   0 1 0 1
+giang   1 1 2 1
+gia   1 1 2 1
+ghép   0 1 0 1
+e   1 1 2 1
+dụng   4 1 5 4
+dịch   0 1 0 1
+dạo   0 1 0 1
+dương   1 1 2 1
+dùm   0 1 1 0
+dù   0 1 1 0
+dát   0 1 0 1
+dám   0 1 0 1
+dài   0 1 1 0
+doi   0 1 0 1
+dinh   0 1 0 1
+cửa   1 1 2 1
+cắm   0 1 0 1
+cậu   0 1 1 0
+cấu   0 1 0 1
+cấp   1 1 1 2
+cấn   0 1 1 0
+cạnh   2 1 3 2
+cũ   1 1 2 1
+căn   0 1 1 0
+cúc   0 1 0 1
+công   3 1 3 4
+cây   3 1 4 3
+cách   2 1 2 3
+cuộc   1 1 1 2
+cs   0 1 1 0
+coiforýp   0 1 0 1
+code   0 1 1 0
+chửi   1 1 2 1
+chừng   0 1 0 1
+chừ   0 1 1 0
+chủ   4 1 5 4
+chợ   0 1 0 1
+chờ   0 1 1 0
+chỉnh   0 1 0 1
+chắt   0 1 0 1
+chật   0 1 1 0
+chương   3 1 4 3
+chúng   2 1 3 2
+chú   0 1 1 0
+chuyện   0 1 1 0
+chung   1 1 2 1
+chu   0 1 1 0
+che   0 1 0 1
+bực   0 1 1 0
+bởi   4 1 4 5
+bộ   0 1 1 0
+bỏ   0 1 0 1
+bận   0 1 1 0
+bản   2 1 3 2
+bơm   0 1 1 0
+bùi   1 1 2 1
+bình   3 1 3 4
+bênh   0 1 0 1
+bán   1 1 2 1
+bác   2 1 2 3
+biển   0 1 0 1
+bin   0 1 0 1
+appe   0 1 0 1
+app   0 1 1 0
+ao   0 1 1 0
+   0 1 1 0
+ổn   2 0 2 2
+đủ   1 0 1 1
+đợt   1 0 1 1
+động   1 0 1 1
+đội   1 0 1 1
+độ   1 0 1 1
+đỗ   1 0 1 1
+định   1 0 1 1
+đều   1 0 1 1
+đầu   2 0 2 2
+đại   3 0 3 3
+đăng   1 0 1 1
+đông   3 0 3 3
+đô   1 0 1 1
+đính   1 0 1 1
+đình   1 0 1 1
+đàm   1 0 1 1
+đài   1 0 1 1
+đoàn   1 0 1 1
+điều   2 0 2 2
+đem   1 0 1 1
+ít   1 0 1 1
+yên   5 0 5 5
+xóm   1 0 1 1
+vụ   1 0 1 1
+vắng   1 0 1 1
+vấn   2 0 2 2
+vướng   2 0 2 2
+ví   2 0 2 2
+vân   1 0 1 1
+vpbank   1 0 1 1
+việt   1 0 1 1
+viện   1 0 1 1
+tự   3 0 3 3
+tổ   1 0 1 1
+tối   3 0 3 3
+tắt   1 0 1 1
+tận   1 0 1 1
+tư   2 0 2 2
+túi   1 0 1 1
+tùy   1 0 1 1
+tí   3 0 3 3
+tìm   1 0 1 1
+tây   1 0 1 1
+tâm   5 0 5 5
+tác   2 0 2 2
+ty   2 0 2 2
+tuấn   1 0 1 1
+trước   7 0 7 7
+trái   1 0 1 1
+triệu   1 0 1 1
+toán   5 0 5 5
+toàn   3 0 3 3
+tiếng   1 0 1 1
+thứ   5 0 5 5
+thời   1 0 1 1
+thống   2 0 2 2
+thượng   1 0 1 1
+thùy   1 0 1 1
+theo   2 0 2 2
+sớm   1 0 1 1
+sắt   1 0 1 1
+sơ   4 0 4 4
+sóc   1 0 1 1
+sáng   11 0 11 11
+sang   6 0 6 6
+sai   1 0 1 1
+rõ   1 0 1 1
+quần   1 0 1 1
+quất   1 0 1 1
+quên   1 0 1 1
+quyết   1 0 1 1
+quy   1 0 1 1
+quay   1 0 1 1
+quan   2 0 2 2
+phối   1 0 1 1
+phản   1 0 1 1
+phút   1 0 1 1
+phiền   1 0 1 1
+online   2 0 2 2
+oanh   1 0 1 1
+nữ   1 0 1 1
+nờ   1 0 1 1
+nằm   1 0 1 1
+non   1 0 1 1
+nhắc   1 0 1 1
+nhật   5 0 5 5
+nhiều   3 0 3 3
+nhiêu   4 0 4 4
+nhiên   2 0 2 2
+nhanh   1 0 1 1
+ngủ   1 0 1 1
+ngọc   2 0 2 2
+ngõ   3 0 3 3
+ngô   1 0 1 1
+ngách   1 0 1 1
+nghĩ   1 0 1 1
+mở   1 0 1 1
+mỗi   1 0 1 1
+mốt   3 0 3 3
+mối   1 0 1 1
+mặt   2 0 2 2
+mầm   1 0 1 1
+mê   1 0 1 1
+mang   4 0 4 4
+lời   1 0 1 1
+lễ   2 0 2 2
+lạc   1 0 1 1
+lâu   3 0 3 3
+loan   1 0 1 1
+liên   8 0 8 8
+lan   1 0 1 1
+kèm   1 0 1 1
+kiểu   1 0 1 1
+kiểm   6 0 6 6
+khảo   1 0 1 1
+khó   1 0 1 1
+khánh   1 0 1 1
+khai   2 0 2 2
+hồi   2 0 2 2
+hồ   4 0 4 4
+hệ   8 0 8 8
+hạn   4 0 4 4
+hóa   2 0 2 2
+hân   1 0 1 1
+hát   1 0 1 1
+huế   1 0 1 1
+huyền   1 0 1 1
+huy   1 0 1 1
+gặp   1 0 1 1
+gắng   1 0 1 1
+gắn   1 0 1 1
+gói   1 0 1 1
+gom   1 0 1 1
+giữa   1 0 1 1
+giảm   1 0 1 1
+giải   2 0 2 2
+gian   1 0 1 1
+dụ   2 0 2 2
+dính   1 0 1 1
+dân   1 0 1 1
+duyên   1 0 1 1
+do   1 0 1 1
+diễn   1 0 1 1
+cổ   2 0 2 2
+cập   3 0 3 3
+cần   3 0 3 3
+còng   1 0 1 1
+cân   1 0 1 1
+cáo   1 0 1 1
+cá   2 0 2 2
+chữ   1 0 1 1
+chứng   3 0 3 3
+chục   1 0 1 1
+chở   1 0 1 1
+chối   4 0 4 4
+chăm   1 0 1 1
+chút   3 0 3 3
+chuyến   1 0 1 1
+chiếu   1 0 1 1
+cam   1 0 1 1
+bố   1 0 1 1
+bệnh   1 0 1 1
+bắt   2 0 2 2
+bóc   1 0 1 1
+bàn   1 0 1 1
+buộc   2 0 2 2

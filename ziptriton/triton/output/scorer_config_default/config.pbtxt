@@ -1,0 +1,119 @@
+name: "scorer"
+version_policy {
+  specific {
+    versions: 2
+  }
+}
+max_batch_size: 1
+input {
+  name: "adapter_out"
+  data_type: TYPE_FP32
+  dims: -1
+  dims: 512
+}
+output {
+  name: "OUTPUT0"
+  data_type: TYPE_STRING
+  dims: 1
+}
+instance_group {
+  count: 1
+  kind: KIND_GPU
+}
+sequence_batching {
+  max_sequence_idle_microseconds: 5000000
+  control_input {
+    name: "START"
+    control {
+      fp32_false_true: 0.0
+      fp32_false_true: 1.0
+    }
+  }
+  control_input {
+    name: "READY"
+    control {
+      kind: CONTROL_SEQUENCE_READY
+      fp32_false_true: 0.0
+      fp32_false_true: 1.0
+    }
+  }
+  control_input {
+    name: "CORRID"
+    control {
+      kind: CONTROL_SEQUENCE_CORRID
+      data_type: TYPE_UINT64
+    }
+  }
+  control_input {
+    name: "END"
+    control {
+      kind: CONTROL_SEQUENCE_END
+      fp32_false_true: 0.0
+      fp32_false_true: 1.0
+    }
+  }
+  oldest {
+    max_candidate_sequences: 1024
+  }
+}
+parameters {
+  key: "FORCE_CPU_ONLY_INPUT_TENSORS"
+  value {
+    string_value: "yes"
+  }
+}
+parameters {
+  key: "beam"
+  value {
+    string_value: "4"
+  }
+}
+parameters {
+  key: "context_size"
+  value {
+    string_value: "2"
+  }
+}
+parameters {
+  key: "decoding_method"
+  value {
+    string_value: "greedy_search"
+  }
+}
+parameters {
+  key: "enable_adapter"
+  value {
+    string_value: "False"
+  }
+}
+parameters {
+  key: "max_contexts"
+  value {
+    string_value: "4"
+  }
+}
+parameters {
+  key: "max_states"
+  value {
+    string_value: "32"
+  }
+}
+parameters {
+  key: "num_active_paths"
+  value {
+    string_value: "4"
+  }
+}
+parameters {
+  key: "temperature"
+  value {
+    string_value: "1.0"
+  }
+}
+parameters {
+  key: "tokenizer_file"
+  value {
+    string_value: "/workspace/sherpa/triton/model_repository/scorer/bpe_vn.model"
+  }
+}
+backend: "python"

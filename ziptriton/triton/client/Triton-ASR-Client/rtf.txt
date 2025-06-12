@@ -1,0 +1,9 @@
+RTF: 0.1388
+total_duration: 26.000 seconds
+(0.01 hours)
+processing time: 3.608 seconds (0.00 hours)
+latency_variance: 13.99
+latency_50_percentile: 181.35
+latency_90_percentile: 389.36
+latency_99_percentile: 408.25
+average_latency_ms: 175.72

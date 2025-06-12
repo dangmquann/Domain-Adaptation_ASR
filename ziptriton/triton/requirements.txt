@@ -1,0 +1,5 @@
+onnx
+onnxruntime-gpu
+onnxmltools
+onnxruntime
+pypinyin
